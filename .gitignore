@@ -43,3 +43,4 @@ pydevd*.log
 nodeLanguageServer/**
 nodeLanguageServer.*/**
 **/.vscode/**
+**/__pycache__/**
