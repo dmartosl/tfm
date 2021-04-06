@@ -1,0 +1,99 @@
+Varón de 66 años controlado en Consultas Externas por hipertrofia benigna de próstata. Presenta episodios de hematuria monosintomática autolimitada y urinocultivos negativos. En estudio ecográfico se observa ureteropielocaliectasia grado II de riñón derecho y en U.I.V. se objetiva anulación funcional de riñón derecho, motivo por el cuál, se practica nefrostomia percutánea derecha, que confirma el hallazgo urográfico. Ocho meses antes, est:udio ecográfico y U.I.V. sin hallazgos patológicos.
+
+Entre sus antecedentes personales cabe destacar: sin alergias conocidas. HTA. Diabetes Mellitus tipo II. Miocardiopatía hipertrófica. Aneurisma carotídeo intracerebral sin secuelas.
+La exploración física practicada es la siguiente: Abdomen blando y depresible, no doloroso, no megalias, Fosas renales libres indoloras. Genitales externos sin signos patológicos. Tacto rectal compatible con HBP grado I-II. Se llevan a cabo las siguientes EXPLORACIONES COMPLEMENTARIAS:
+ANALISIS: Glucemia 145 mg/dl, Creatinina 1.4 mg/dl. Resto de parámetros dentro de la normalidad.
+CITOLOGIA URINARIA: Compatible con carcinoma de células transicionales de bajo grado.
+PIELOGRAFIA DESCENDENTE a traves de Nefrostomia: Defecto de replección a nivel de uréter sacro-ilíaco derecho de aproximadamente 20 mm de longitud, con signos de infiltración de la pared.
+
+ESTUDIO FUNCIONAL DE RIÑON DERECHO: Aclaramiento de Creatinina inferior a 5 ml/minuto.
+TAC ABDOMINO-PELVICO: Aneurisma de Aorta infrarrenal. Atrofia hidronefrótica de riñón derecho, sin visualizarse imágenes endoluminales intraureterales. Dudosas adenopatías paravesicales.
+Ante estos hallazgos y la sospecha de tumor de vías de uréter derecho, el paciente es intervenido quirúrgicamente practicándose nefroureterectomía radical derecha con evolución postoperatoria satisfactoria. El dictamen histopatológico de la pieza nos informa de pielonefritis crónica y cambios de arteriosclerosis, así como lesión inflamatoria ureteral que oblitera la luz con infiltrado de linfocitos en capas musculares, erosión de urotelio y presencia de Actinomices. Tras 9 años de seguimiento, el paciente mantiene una función renal aceptable (Creatinina sérica 2.1 mg/dl ) y es controlado por HBP sintomática.
+
+66-year-old man controlled in Outpatient Clinics for benign prostate hypertrophy. He presents with episodes of self-limited monosymptomatic hematuria and negative urine cultures. An ultrasound study shows grade II ureteropyelocaliectasis of the right kidney and in IVU. Functional cancellation of the right kidney was observed, which is why a right percutaneous nephrostomy is performed, which confirms the urographic finding. Eight months before, he was studying ultrasound and U.I.V. without pathological findings.
+
+His personal history includes: no known allergies. HTA. Type II diabetes mellitus. Hypertrophic cardiomyopathy. Intracerebral carotid aneurysm without sequelae.
+The physical examination performed is as follows: soft and depressible abdomen, not painful, not megaly, painless free renal fossae. External genitalia without pathological signs. Rectal examination compatible with BPH grade I-II. The following COMPLEMENTARY EXAMINATIONS are carried out:
+ANALYSIS: Glucose 145 mg / dl, Creatinine 1.4 mg / dl. Rest of parameters within normality.
+URINARY CYTOLOGY: Compatible with low-grade transitional cell carcinoma.
+DESCENDING PYELOGRAPHY through Nephrostomy: filling defect at the level of the right sacro-iliac ureter of approximately 20 mm in length, with signs of infiltration of the wall.
+
+FUNCTIONAL STUDY OF THE RIGHT KIDNEY: Creatinine clearance less than 5 ml / minute.
+ABDOMINO-PELVIC CAT: Infrarenal Aortic aneurysm. Hydronephrotic atrophy of the right kidney, without visualizing intraureteral endoluminal images. Doubtful paravesical lymphadenopathy.
+Given these findings and the suspicion of a tumor of the right ureteric tract, the patient underwent surgery and performed a right radical nephroureterectomy with a satisfactory postoperative evolution. The histopathological opinion of the piece informs us of chronic pyelonephritis and changes in arteriosclerosis, as well as an inflammatory ureteral lesion that obliterates the lumen with infiltrate of lymphocytes in muscle layers, erosion of the urothelium and the presence of Actinomyces. After 9 years of follow-up, the patient maintains acceptable renal function (serum creatinine 2.1 mg / dl) and is controlled for symptomatic BPH.
+/home/uned/pymetamap
+/home/uned/public_mm_lite
+ConceptLiteMMI(index='1', mm='MMI', score='7.37', preferred_name='Ultrasonography', cui='C0041618', semtypes='[diap]', trigger='"Ultrasound"-text-0-"ultrasound"-JJ-0,"Ultrasound"-text-0-"ultrasound"-NN-0', pos_info='text', tree_codes='182/10;464/10')
+ConceptLiteMMI(index='1', mm='MMI', score='5.99', preferred_name='Hematuria', cui='C0018965', semtypes='[dsyn]', trigger='"Hematuria"-text-2-"hematuria"-NN-0', pos_info='text', tree_codes='140/9')
+ConceptLiteMMI(index='1', mm='MMI', score='5.99', preferred_name='Urine', cui='C0042036', semtypes='[bdsu]', trigger='"Urine"-text-8-"urine"-JJ-0', pos_info='text', tree_codes='163/5')
+ConceptLiteMMI(index='1', mm='MMI', score='5.06', preferred_name='Homo sapiens', cui='C0086418', semtypes='[humn]', trigger='"Man"-text-0-"man"-NN-0', pos_info='text', tree_codes='12/3')
+ConceptLiteMMI(index='1', mm='MMI', score='3.68', preferred_name='Ultrasonic', cui='C0220934', semtypes='[ftcn]', trigger='"ultrasound"-text-0-"ultrasound"-JJ-0,"ultrasound"-text-0-"ultrasound"-NN-0', pos_info='text', tree_codes='182/10;464/10')
+ConceptLiteMMI(index='1', mm='MMI', score='3.68', preferred_name='Ultrasonic Shockwave', cui='C0041621', semtypes='[npop]', trigger='"ultrasound"-text-0-"ultrasound"-JJ-0,"ultrasound"-text-0-"ultrasound"-NN-0', pos_info='text', tree_codes='182/10;464/10')
+ConceptLiteMMI(index='1', mm='MMI', score='1.84', preferred_name='Benign prostatic hypertrophy', cui='C0005001', semtypes='[patf]', trigger='"benign prostate hypertrophy"-text-8-"benign prostate hypertrophy"-JJ-0', pos_info='text', tree_codes='53/27')
+ConceptLiteMMI(index='1', mm='MMI', score='1.84', preferred_name='Males', cui='C0086582', semtypes='[orga]', trigger='"man"-text-0-"man"-NN-0', pos_info='text', tree_codes='12/3')
+ConceptLiteMMI(index='1', mm='MMI', score='1.84', preferred_name='Self', cui='C0036588', semtypes='[idcn]', trigger='"Self"-text-0-"self"-NN-0', pos_info='text', tree_codes='111/4')
+ConceptLiteMMI(index='1', mm='MMI', score='1.38', preferred_name='Ambulatory Care Facilities', cui='C0002424', semtypes='[mnob, hcro]', trigger='"Outpatient Clinics"-text-0-"Outpatient Clinics"-NNP-0', pos_info='text', tree_codes='30/18')
+ConceptLiteMMI(index='1', mm='MMI', score='0.92', preferred_name='Right kidney', cui='C0227613', semtypes='[bpoc]', trigger='"Right kidney"-text-6-"right kidney"-JJ-0,"Right kidney"-text-0-"right kidney"-JJ-0', pos_info='text', tree_codes='245/12;301/12')
+ConceptLiteMMI(index='1', mm='MMI', score='0.92', preferred_name='Ultrasonics (sound)', cui='C1456803', semtypes='[npop]', trigger='"Ultrasound"-text-0-"ultrasound"-JJ-0,"Ultrasound"-text-0-"ultrasound"-NN-0', pos_info='text', tree_codes='182/10;464/10')
+ConceptLiteMMI(index='1', mm='MMI', score='0.92', preferred_name='ultrasound device', cui='C1875843', semtypes='[medd]', trigger='"ULTRASOUND"-text-0-"ultrasound"-JJ-0,"ULTRASOUND"-text-0-"ultrasound"-NN-0', pos_info='text', tree_codes='182/10;464/10')
+ConceptLiteMMI(index='1', mm='MMI', score='0.92', preferred_name='Signs and Symptoms', cui='C0037088', semtypes='[sosy]', trigger='"Finding"-text-30-"finding"-NN-0', pos_info='text', tree_codes='418/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Anthropological Culture', cui='C0010453', semtypes='[idcn]', trigger='"Cultures"-text-10-"cultures"-NNS-0', pos_info='text', tree_codes='169/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Before', cui='C0332152', semtypes='[tmco]', trigger='"Before"-text-0-"before"-IN-0', pos_info='text', tree_codes='440/6')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Before - dosing instruction fragment', cui='C1705850', semtypes='[inpr]', trigger='"Before"-text-0-"before"-IN-0', pos_info='text', tree_codes='440/6')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Clavien-Dindo Grade II', cui='C4049999', semtypes='[inpr]', trigger='"Grade II"-text-0-"grade II"-NN-0', pos_info='text', tree_codes='205/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Clinical Research', cui='C0008972', semtypes='[resa]', trigger='"Study"-text-0-"study"-NN-0', pos_info='text', tree_codes='193/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Consent Type - Percutaneous Nephrostomy', cui='C1548897', semtypes='[hlca]', trigger='"Percutaneous Nephrostomy"-text-15-"percutaneous nephrostomy"-JJ-0', pos_info='text', tree_codes='349/24')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='DICOM Study', cui='C1880229', semtypes='[resa]', trigger='"Study"-text-0-"study"-NN-0', pos_info='text', tree_codes='193/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Disease Grade 2', cui='C1522446', semtypes='[inpr]', trigger='"Grade II"-text-0-"grade II"-NN-0', pos_info='text', tree_codes='205/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Eight', cui='C0205454', semtypes='[qnco]', trigger='"Eight"-text-0-"Eight"-CD-0', pos_info='text', tree_codes='427/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Episode of', cui='C0332189', semtypes='[tmco]', trigger='"Episodes"-text-0-"episodes"-NNS-0', pos_info='text', tree_codes='99/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Experimental Finding', cui='C2825141', semtypes='[fndg]', trigger='"Finding"-text-30-"finding"-NN-0', pos_info='text', tree_codes='418/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Facilitated oscillatory release technique', cui='C1562169', semtypes='[topp]', trigger='"FOR"-text-2-"for"-IN-0', pos_info='text', tree_codes='49/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Finding', cui='C0243095', semtypes='[fndg]', trigger='"Finding"-text-30-"finding"-NN-0', pos_info='text', tree_codes='418/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Function (attribute)', cui='C0542341', semtypes='[ftcn]', trigger='"Functional"-text-0-"Functional"-JJ-0', pos_info='text', tree_codes='270/10')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Functional', cui='C0205245', semtypes='[ftcn]', trigger='"Functional"-text-0-"Functional"-JJ-0', pos_info='text', tree_codes='270/10')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Functional Relationship', cui='C2700217', semtypes='[cnce]', trigger='"Functional"-text-0-"Functional"-JJ-0', pos_info='text', tree_codes='270/10')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='G2 stage (tumor staging)', cui='C0475270', semtypes='[inpr]', trigger='"Grade II"-text-0-"grade II"-NN-0', pos_info='text', tree_codes='205/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Grade two rank', cui='C0441802', semtypes='[clas]', trigger='"Grade II"-text-0-"grade II"-NN-0', pos_info='text', tree_codes='205/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Hematuria, CTCAE', cui='C4554630', semtypes='[fndg]', trigger='"Hematuria"-text-2-"hematuria"-NN-0', pos_info='text', tree_codes='140/9')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='In Urine', cui='C0042037', semtypes='[ftcn]', trigger='"urine"-text-8-"urine"-JJ-0', pos_info='text', tree_codes='163/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='In addition to', cui='C0332287', semtypes='[ftcn]', trigger='"With"-text-0-"with"-IN-0', pos_info='text', tree_codes='94/4')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Limited (extensiveness)', cui='C0439801', semtypes='[ftcn]', trigger='"Limited"-text-0-"limited"-JJ-0', pos_info='text', tree_codes='116/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Limited Lifting Ability', cui='C4050251', semtypes='[inpr]', trigger='"Limited"-text-0-"limited"-JJ-0', pos_info='text', tree_codes='116/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Limited Walking Ability', cui='C2674459', semtypes='[fndg]', trigger='"Limited"-text-0-"limited"-JJ-0', pos_info='text', tree_codes='116/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Limited component (foundation metadata concept)', cui='C3542948', semtypes='[inpr]', trigger='"Limited"-text-0-"limited"-JJ-0', pos_info='text', tree_codes='116/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Male population group', cui='C0025266', semtypes='[popg]', trigger='"Man"-text-0-"man"-NN-0', pos_info='text', tree_codes='12/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Man Chinese', cui='C4761455', semtypes='[popg]', trigger='"MAN"-text-0-"man"-NN-0', pos_info='text', tree_codes='12/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Mandinka Language', cui='C4724040', semtypes='[lang]', trigger='"MAN"-text-0-"man"-NN-0', pos_info='text', tree_codes='12/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Negative', cui='C0205160', semtypes='[fndg]', trigger='"Negative"-text-6-"negative"-JJ-0', pos_info='text', tree_codes='154/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Negative - answer', cui='C3853545', semtypes='[qlco]', trigger='"Negative"-text-6-"negative"-JJ-0', pos_info='text', tree_codes='154/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Negative Charge', cui='C2825491', semtypes='[qlco]', trigger='"Negative"-text-6-"negative"-JJ-0', pos_info='text', tree_codes='154/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Negative Finding', cui='C1513916', semtypes='[fndg]', trigger='"Negative"-text-6-"negative"-JJ-0', pos_info='text', tree_codes='154/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Negative Number', cui='C2825415', semtypes='[cnce]', trigger='"Negative"-text-6-"negative"-JJ-0', pos_info='text', tree_codes='154/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Old', cui='C0580836', semtypes='[tmco]', trigger='"Old"-text-0-"old"-JJ-0', pos_info='text', tree_codes='8/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Old episode', cui='C0677546', semtypes='[tmco]', trigger='"Old"-text-0-"old"-JJ-0', pos_info='text', tree_codes='8/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Pathological findings', cui='C4699474', semtypes='[fndg]', trigger='"Pathological findings"-text-14-"pathological findings"-JJ-1', pos_info='text', tree_codes='494/21')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Percutaneous insertion of nephrostomy tube', cui='C0027724', semtypes='[topp]', trigger='"percutaneous nephrostomy"-text-15-"percutaneous nephrostomy"-JJ-0', pos_info='text', tree_codes='349/24')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Portion of urine', cui='C2963137', semtypes='[bdsu]', trigger='"Urine"-text-8-"urine"-JJ-0', pos_info='text', tree_codes='163/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Precision - year', cui='C1561544', semtypes='[idcn]', trigger='"year"-text-0-"year"-NN-0', pos_info='text', tree_codes='3/4')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Preposition For', cui='C0521125', semtypes='[qlco]', trigger='"For"-text-2-"for"-IN-0', pos_info='text', tree_codes='49/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Right', cui='C0205090', semtypes='[spco]', trigger='"Right"-text-11-"right"-JJ-0', pos_info='text', tree_codes='343/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Right sided', cui='C0444532', semtypes='[spco]', trigger='"Right"-text-11-"right"-JJ-0', pos_info='text', tree_codes='343/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Room of building - Study', cui='C0557651', semtypes='[mnob]', trigger='"Study"-text-0-"study"-NN-0', pos_info='text', tree_codes='193/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Scientific Study', cui='C0947630', semtypes='[lbpr]', trigger='"Study"-text-0-"study"-NN-0', pos_info='text', tree_codes='193/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Simpson Grade 2', cui='C4284293', semtypes='[inpr]', trigger='"Grade II"-text-0-"grade II"-NN-0', pos_info='text', tree_codes='205/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Specimen Source Codes - Urine', cui='C1547942', semtypes='[inpr]', trigger='"Urine"-text-8-"urine"-JJ-0', pos_info='text', tree_codes='163/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Study', cui='C2603343', semtypes='[resa]', trigger='"Study"-text-0-"study"-NN-0', pos_info='text', tree_codes='193/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Study Object', cui='C1705923', semtypes='[cnce]', trigger='"Study"-text-0-"study"-NN-0', pos_info='text', tree_codes='193/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Table Cell Horizontal Align - right', cui='C1552823', semtypes='[ftcn]', trigger='"right"-text-11-"right"-JJ-0', pos_info='text', tree_codes='343/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Transaction counts and value totals - year', cui='C1561543', semtypes='[inpr]', trigger='"year"-text-0-"year"-NN-0', pos_info='text', tree_codes='3/4')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Urine - SpecimenType', cui='C1610733', semtypes='[bdsu]', trigger='"Urine"-text-8-"urine"-JJ-0', pos_info='text', tree_codes='163/5')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='WHO Central Nervous System Grade II', cui='C1883547', semtypes='[inpr]', trigger='"Grade II"-text-0-"grade II"-NN-0', pos_info='text', tree_codes='205/8')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='WWOX gene', cui='C1421525', semtypes='[gngm]', trigger='"FOR"-text-2-"for"-IN-0', pos_info='text', tree_codes='49/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='WWOX wt Allele', cui='C4321252', semtypes='[gngm]', trigger='"FOR"-text-2-"for"-IN-0', pos_info='text', tree_codes='49/3')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='With - dosing instruction fragment', cui='C1705690', semtypes='[inpr]', trigger='"With"-text-0-"with"-IN-0', pos_info='text', tree_codes='94/4')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='Without', cui='C0332288', semtypes='[qlco]', trigger='"Without"-text-10-"without"-IN-0', pos_info='text', tree_codes='486/7')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='month', cui='C0439231', semtypes='[tmco]', trigger='"Months"-text-0-"months"-NNS-0', pos_info='text', tree_codes='433/6')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='percutaneous nephrostomy procedure', cui='C0564457', semtypes='[topp]', trigger='"Percutaneous nephrostomy"-text-15-"percutaneous nephrostomy"-JJ-0', pos_info='text', tree_codes='349/24')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='subscriber - self', cui='C1551994', semtypes='[inpr]', trigger='"self"-text-0-"self"-NN-0', pos_info='text', tree_codes='111/4')
+ConceptLiteMMI(index='1', mm='MMI', score='0.46', preferred_name='year', cui='C0439234', semtypes='[tmco]', trigger='"year"-text-0-"year"-NN-0', pos_info='text', tree_codes='3/4')

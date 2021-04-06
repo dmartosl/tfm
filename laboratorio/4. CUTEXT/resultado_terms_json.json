@@ -1,0 +1,735 @@
+{
+	"terms_json":
+	[
+		{
+			"term": "aorta",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "aneurisma de aorta",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "pieza",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "signos",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "riñón derecho",
+			"frecuency": "3",
+			"c-value": "6.0"
+		}
+		{
+			"term": "diabetes",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "aneurisma",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "tac abdomino-pelvico",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "infiltración",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "longitud",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "presencia de actinomices",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "uréter derecho",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "evolución postoperatoria",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "anulación funcional de riñón",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "hallazgos patológicos",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "nefrostomia",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "tacto rectal",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "células transicionales de bajo",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "hipertrofia",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "función",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "vías de uréter derecho",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "vías",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "signos patológicos",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "episodios de hematuria",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "ureteropielocaliectasia grado",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "grado",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "tipo",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "hallazgo",
+			"frecuency": "3",
+			"c-value": "3.0"
+		}
+		{
+			"term": "uréter sacro-ilíaco",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "dictamen histopatológico",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "atrofia",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "signos de infiltración",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "adenopatías paravesicales",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "estudio funcional de riñon",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "capas musculares",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "anulación",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "carcinoma",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "urotelio",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "parámetros",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "mg/dl",
+			"frecuency": "3",
+			"c-value": "3.0"
+		}
+		{
+			"term": "dictamen",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "fosas",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "meses",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "ml/minuto",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "glucemia",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "creatinina sérica",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "megalias",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "actinomices",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "atrofia hidronefrótica",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "episodios",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "células transicionales",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "capas",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "defecto de replección",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "est:udio ecográfico",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "pielonefritis",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "aclaramiento de creatinina inferior",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "nefrostomia percutánea",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "hbp sintomática",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "u.i.v.",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "vías de uréter",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "cabo",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "hematuria monosintomática",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "episodios de hematuria monosintomática",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "nefroureterectomía radical",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "resto de parámetros",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "miocardiopatía",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "paciente",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "tac",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "aneurisma carotídeo",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "imágenes endoluminales",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "exploración",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "presencia",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "lesión inflamatoria",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "i-ii",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "aneurisma de aorta infrarrenal",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "luz",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "genitales",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "normalidad",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "función renal",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "adenopatías",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "abdomen blando",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "est:udio",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "imágenes",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "erosión de urotelio",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "diabetes mellitus",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "tumor de vías",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "abdomen",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "linfocitos",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "creatinina inferior",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "aclaramiento",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "antecedentes personales",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "erosión",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "defecto",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "hipertrofia benigna",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "pielonefritis crónica",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "consultas",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "atrofia hidronefrótica de riñón",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "uréter",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "creatinina",
+			"frecuency": "3",
+			"c-value": "3.0"
+		}
+		{
+			"term": "citologia urinaria",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "resto",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "secuelas",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "cambios de arteriosclerosis",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "hipertrofia benigna de próstata",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "exploración física",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "alergias",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "antecedentes",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "tumor",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "analisis",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "carcinoma de células transicionales",
+			"frecuency": "1",
+			"c-value": "3.0"
+		}
+		{
+			"term": "miocardiopatía hipertrófica",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "años de seguimiento",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "lesión",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "nefroureterectomía",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "evolución",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "replección",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "hematuria",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "motivo",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "cambios",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "estudio funcional",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "tacto",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "exploraciones complementarias",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "próstata",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "anulación funcional",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "riñón",
+			"frecuency": "3",
+			"c-value": "3.0"
+		}
+		{
+			"term": "citologia",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "carcinoma de células",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "pielografia descendente",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "arteriosclerosis",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "ureteropielocaliectasia",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "consultas externas",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "células",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "genitales externos",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "aclaramiento de creatinina",
+			"frecuency": "1",
+			"c-value": "2.584962500721156"
+		}
+		{
+			"term": "pielografia",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "aorta infrarrenal",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "años",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "hallazgo urográfico",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "fosas renales",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "pared",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "hbp",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "estudio",
+			"frecuency": "2",
+			"c-value": "2.0"
+		}
+		{
+			"term": "varón",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "seguimiento",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+		{
+			"term": "estudio ecográfico",
+			"frecuency": "1",
+			"c-value": "2.0"
+		}
+		{
+			"term": "bajo",
+			"frecuency": "1",
+			"c-value": "1.0"
+		}
+	]
+}

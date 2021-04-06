@@ -1,0 +1,3403 @@
+Text language is: none
+
+Var var NP00000 13645132-n:0
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+de de SP 
+66 66 Z 
+a a SP 
+Ã Ã Fz 
+± ± Fz 
+os o NCFP000 06832680-n:0/14648100-n:0
+controlado controlar VMP00SM 00202569-v:0/00234857-v:0/00597385-v:0/00662589-v:0/00663160-v:0/00697062-v:0/00746366-v:0/01224744-v:0/01803936-v:0/02163301-v:0/02441022-v:0/02443049-v:0/02454939-v:0/02510337-v:0/02520997-v:0/02533282-v:0/02646931-v:0/00598679-a:0
+en en SP 
+Consultas_Externas consultas_externas NP00000 
+por por SP 
+hipertrofia hipertrofia NCFS000 14366759-n:0
+benigna benigno AQ0FS00 00226618-a:0/01372568-a:0/01372773-a:0/02594565-a:0
+de de SP 
+pr pr VMN0000 
+Ã Ã Fz 
+³ ³ Fz 
+stata stata NCFS000 
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(Var var NP00000)
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +numero_[
+          +(66 66 Z)
+        ]
+      ]
+    ]
+  ]
+  prep_[
+    +(a a SP)
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(± ± Fz)
+  ]
+  sn_[
+    +grup-nom-fp_[
+      +n-fp_[
+        +(os o NCFP000)
+      ]
+    ]
+  ]
+  subord-part_[
+    +parti-ms_[
+      +(controlado controlar VMP00SM)
+    ]
+    grup-sp_[
+      +prep_[
+        +(en en SP)
+      ]
+      sn_[
+        +grup-nom-ms_[
+          +w-ms_[
+            +(Consultas_Externas consultas_externas NP00000)
+          ]
+        ]
+      ]
+    ]
+    grup-sp_[
+      +prep_[
+        +(por por SP)
+      ]
+      sn_[
+        +grup-nom-fs_[
+          +n-fs_[
+            +(hipertrofia hipertrofia NCFS000)
+          ]
+          s-a-fs_[
+            +a-fs_[
+              +(benigna benigno AQ0FS00)
+            ]
+          ]
+        ]
+      ]
+    ]
+    grup-sp-inf_[
+      +prep_[
+        +(de de SP)
+      ]
+      grup-verb-inf_[
+        +infinitiu_[
+          +inf_[
+            +forma-inf_[
+              +(pr pr VMN0000)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(stata stata NCFS000)
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(Var var NP00000) [
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/mod/(n n NCFS000) [
+    sp-de/mod/(de de SP) [
+      sn/comp/(66 66 Z)
+    ]
+  ]
+  prep/modnomatch/(a a SP)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(± ± Fz)
+  sn/mod/(os o NCFP000)
+  subord-part/mod/(controlado controlar VMP00SM) [
+    grup-sp/adjt/(en en SP) [
+      sn/comp/(Consultas_Externas consultas_externas NP00000)
+    ]
+    grup-sp/agnt/(por por SP) [
+      sn/comp/(hipertrofia hipertrofia NCFS000) [
+        s-a-fs/mod/(benigna benigno AQ0FS00)
+      ]
+    ]
+    grup-sp-inf/adjt/(de de SP) [
+      grup-verb-inf/comp/(pr pr VMN0000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/mod/(stata stata NCFS000) [
+    F-term/punc/(. . Fp)
+  ]
+]
+Presenta presentar VMIP3S0 00664788-v:0/00772967-v:0/00878136-v:0/00878636-v:0/00879028-v:0/00901103-v:0/00901651-v:0/00923793-v:0/00943837-v:0/01015244-v:0/01066433-v:0/01649124-v:0/01649809-v:0/01688771-v:0/01711445-v:0/02078591-v:0/02137132-v:0/02139544-v:0/02140033-v:0/02148788-v:0/02200686-v:0/02262752-v:0/02296615-v:0/02310328-v:0/02592397-v:0/02630189-v:0/02722663-v:0
+episodios episodio NCMP000 06396330-n:0/06621771-n:0/07289956-n:0
+de de SP 
+hematuria hematuria NCFS000 14271920-n:0/14314320-n:0
+monosintom monosintom NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+tica tica NCFS000 
+autolimitada autolimitar VMP00SF 
+y y CC 
+urinocultivos urinocultivos NCMP000 
+negativos negativo AQ0MP00 00075515-a:0/00587890-a:0/01128508-a:0/01818234-a:0/01819821-a:0/01820338-a:0
+. . Fp 
+
++grup-verb_[
+  +verb_[
+    +(Presenta presentar VMIP3S0)
+  ]
+  sn_[
+    +grup-nom-mp_[
+      +n-mp_[
+        +(episodios episodio NCMP000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +grup-nom-fs_[
+          +n-fs_[
+            +(hematuria hematuria NCFS000)
+          ]
+          n-ms_[
+            +(monosintom monosintom NCMS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  coor-n_[
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(tica tica NCFS000)
+        ]
+        s-a-fs_[
+          +parti-fs_[
+            +(autolimitada autolimitar VMP00SF)
+          ]
+        ]
+      ]
+    ]
+    +(y y CC)
+    sn_[
+      +grup-nom-mp_[
+        +n-mp_[
+          +(urinocultivos urinocultivos NCMP000)
+        ]
+        s-a-mp_[
+          +a-mp_[
+            +(negativos negativo AQ0MP00)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+grup-verb/top/(Presenta presentar VMIP3S0) [
+  sn/dobj/(episodios episodio NCMP000) [
+    sp-de/mod/(de de SP) [
+      sn/comp/(hematuria hematuria NCFS000) [
+        n-ms/mod/(monosintom monosintom NCMS000)
+      ]
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  coor-n/modnomatch/(y y CC) [
+    sn/coor/(tica tica NCFS000) [
+      s-a-fs/mod/(autolimitada autolimitar VMP00SF)
+    ]
+    sn/coor/(urinocultivos urinocultivos NCMP000) [
+      s-a-mp/mod/(negativos negativo AQ0MP00)
+    ]
+  ]
+  F-term/punc/(. . Fp)
+]
+En en SP 
+estudio estudio NCMS000 00644503-n:0/02822064-n:0/04227144-n:0/04344246-n:0/04344544-n:0/04345028-n:0/05705355-n:0/05755883-n:0/05784242-n:0/05797597-n:0/05996646-n:0/07043518-n:0/07048627-n:0/07218470-n:0
+ecogr ecogr NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+fico fico NCMS000 
+se se P00CN00 
+observa observar VMIP3S0 00693780-v:0/00732552-v:0/01020005-v:0/01058574-v:0/02118476-v:0/02118933-v:0/02128653-v:0/02129289-v:0/02130160-v:0/02130524-v:0/02132745-v:0/02150510-v:0/02154508-v:0/02169352-v:0/02455407-v:0
+ureteropielocaliectasia ureteropielocaliectasia AQ0FS00 
+grado grado NCMS000 04644512-n:0/05068716-n:0/05091316-n:0/05093890-n:0/05861317-n:0/06697331-n:0/13611207-n:0/13612319-n:0/13714184-n:0/13939892-n:0/14428160-n:0
+II ii NP00000 
+de de SP 
+ri ri NCCS000 
+Ã Ã Fz 
+± ± Fz 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+derecho derecho AQ0MS00 01234030-a:0/01237754-a:0/01239862-a:0/02029047-a:0/02031986-a:0/02032386-a:0/02314584-a:0
+y y CC 
+en en SP 
+U.I.V. u.i.v. NP00000 
+se se P00CN00 
+objetiva objetivar VMIP3S0 
+anulaci anulaci NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+funcional funcional AQ0CS00 01090308-a:0/01090820-a:0/01091556-a:0/01091728-a:0/01092989-a:0/01835023-a:0/02124253-a:0/02976260-a:0
+de de SP 
+ri ri NCCS000 
+Ã Ã Fz 
+± ± Fz 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+derecho derecho NCMS000 00611143-n:0/05174653-n:0/05181199-n:0/06161718-n:0
+, , Fc 
+motivo motivo NCMS000 00023773-n:0/05920272-n:0/05983347-n:0/06740402-n:0/07028797-n:0/07029682-n:0/09179264-n:0
+por por SP 
+el el DA0MS0 
+cu cu NCFS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+l l NCFS000 13624190-n:0
+, , Fc 
+se se P00CN00 
+practica practicar VMIP3S0 00606093-v:0/01712704-v:0/01714208-v:0/01723224-v:0/02561332-v:0/02568672-v:0
+nefrostomia nefrostomia NCFS000 
+percut percut NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+nea nea NCFS000 
+derecha derecho AQ0FS00 01234030-a:0/01237754-a:0/01239862-a:0/02029047-a:0/02031986-a:0/02032386-a:0/02314584-a:0
+, , Fc 
+que que PR0CN00 
+confirma confirmar VMIP3S0 00665886-v:0/00820976-v:0/00822262-v:0/01012073-v:0/02444662-v:0/02447793-v:0/02474603-v:0/02476518-v:0/02663340-v:0
+el el DA0MS0 
+hallazgo hallazgo NCMS000 00043195-n:0/00151497-n:0/05808218-n:0/07214432-n:0
+urogr urogr NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+fico fico NCMS000 
+. . Fp 
+
++grup-verb_[
+  grup-sp_[
+    +prep_[
+      +(En en SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(estudio estudio NCMS000)
+        ]
+        n-ms_[
+          +(ecogr ecogr NCMS000)
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(¡ ¡ Fz)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(fico fico NCMS000)
+      ]
+    ]
+  ]
+  morfema-verbal_[
+    +(se se P00CN00)
+  ]
+  +grup-verb_[
+    +verb_[
+      +(observa observar VMIP3S0)
+    ]
+  ]
+  s-adj_[
+    +s-a-fs_[
+      +a-fs_[
+        +(ureteropielocaliectasia ureteropielocaliectasia AQ0FS00)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(grado grado NCMS000)
+      ]
+      w-ms_[
+        +(II ii NP00000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +grup-nom-ms_[
+          +n-ms_[
+            +(ri ri NCCS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(± ± Fz)
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+    ]
+    s-adj_[
+      +s-a-ms_[
+        +a-ms_[
+          +(derecho derecho AQ0MS00)
+        ]
+      ]
+    ]
+  ]
+  coor-sp_[
+    +(y y CC)
+    grup-sp_[
+      +prep_[
+        +(en en SP)
+      ]
+      sn_[
+        +grup-nom-ms_[
+          +w-ms_[
+            +(U.I.V. u.i.v. NP00000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-verb_[
+    morfema-verbal_[
+      +(se se P00CN00)
+    ]
+    +grup-verb_[
+      +verb_[
+        +(objetiva objetivar VMIP3S0)
+      ]
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(anulaci anulaci NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+      s-a-fs_[
+        +a-fs_[
+          +(funcional funcional AQ0CS00)
+        ]
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +grup-nom-ms_[
+          +n-ms_[
+            +(ri ri NCCS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(± ± Fz)
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+      n-ms_[
+        +(derecho derecho NCMS000)
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(motivo motivo NCMS000)
+      ]
+    ]
+  ]
+  prep_[
+    +(por por SP)
+  ]
+  espec-ms_[
+    +j-ms_[
+      +(el el DA0MS0)
+    ]
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(cu cu NCFS000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  grup-verb_[
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(l l NCFS000)
+        ]
+      ]
+      Fc_[
+        +(, , Fc)
+      ]
+    ]
+    morfema-verbal_[
+      +(se se P00CN00)
+    ]
+    +grup-verb_[
+      +verb_[
+        +(practica practicar VMIP3S0)
+      ]
+    ]
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(nefrostomia nefrostomia NCFS000)
+        ]
+        n-ms_[
+          +(percut percut NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(nea nea NCFS000)
+      ]
+      s-a-fs_[
+        +a-fs_[
+          +(derecha derecho AQ0FS00)
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    relativa_[
+      relatiu-sn_[
+        +(que que PR0CN00)
+      ]
+      +verb_[
+        +(confirma confirmar VMIP3S0)
+      ]
+      sn_[
+        espec-ms_[
+          +j-ms_[
+            +(el el DA0MS0)
+          ]
+        ]
+        +grup-nom-ms_[
+          +n-ms_[
+            +(hallazgo hallazgo NCMS000)
+          ]
+          n-ms_[
+            +(urogr urogr NCMS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(fico fico NCMS000)
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+grup-verb/top/(observa observar VMIP3S0) [
+  morfema-verbal/mphes/(se se P00CN00)
+  grup-sp/adjt/(En en SP) [
+    sn/comp/(estudio estudio NCMS000) [
+      n-ms/mod/(ecogr ecogr NCMS000)
+    ]
+    F-no-c/punc/(Ã Ã Fz)
+    F-no-c/punc/(¡ ¡ Fz)
+  ]
+  sn/subj/(fico fico NCMS000)
+  s-adj/modnomatch/(ureteropielocaliectasia ureteropielocaliectasia AQ0FS00)
+  sn/dobj/(grado grado NCMS000) [
+    w-ms/mod/(II ii NP00000)
+    sp-de/mod/(de de SP) [
+      sn/comp/(ri ri NCCS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(± ± Fz)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/modnomatch/(n n NCFS000) [
+    s-adj/mod/(derecho derecho AQ0MS00)
+  ]
+  coor-sp/modnomatch/(y y CC) [
+    grup-sp/coor/(en en SP) [
+      sn/comp/(U.I.V. u.i.v. NP00000)
+    ]
+  ]
+  grup-verb/modnomatch/(objetiva objetivar VMIP3S0) [
+    morfema-verbal/mphes/(se se P00CN00)
+    sn/dobj/(anulaci anulaci NCMS000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/modnomatch/(n n NCFS000) [
+    s-a-fs/mod/(funcional funcional AQ0CS00)
+    sp-de/mod/(de de SP) [
+      sn/comp/(ri ri NCCS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(± ± Fz)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/modnomatch/(n n NCFS000) [
+    n-ms/mod/(derecho derecho NCMS000)
+    Fc/punc/(, , Fc)
+  ]
+  sn/modnomatch/(motivo motivo NCMS000)
+  prep/modnomatch/(por por SP)
+  espec-ms/modnomatch/(el el DA0MS0)
+  sn/modnomatch/(cu cu NCFS000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  grup-verb/modnomatch/(practica practicar VMIP3S0) [
+    morfema-verbal/mphes/(se se P00CN00)
+    sn/subj/(l l NCFS000) [
+      Fc/punc/(, , Fc)
+    ]
+    sn/dobj/(nefrostomia nefrostomia NCFS000) [
+      n-ms/mod/(percut percut NCMS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  sn/modnomatch/(nea nea NCFS000) [
+    s-a-fs/mod/(derecha derecho AQ0FS00)
+    Fc/punc/(, , Fc)
+    relativa/mod/(confirma confirmar VMIP3S0) [
+      relatiu-sn/subj/(que que PR0CN00)
+      sn/dobj/(hallazgo hallazgo NCMS000) [
+        espec-ms/spec/(el el DA0MS0)
+        n-ms/mod/(urogr urogr NCMS000)
+      ]
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  sn/modnomatch/(fico fico NCMS000) [
+    F-term/punc/(. . Fp)
+  ]
+]
+Ocho 8 Z 
+meses mes NCMP000 13513747-n:0/15206296-n:0/15209413-n:0
+antes antes RG 00060939-r:0/00066781-r:0/00265579-r:0
+, , Fc 
+est est NCMS000 
+: : Fd 
+udio udio NCMS000 
+ecogr ecogr NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+fico fico NCMS000 
+y y CC 
+U.I.V. u.i.v. NP00000 
+sin sin SP 
+hallazgos hallazgo NCMP000 00043195-n:0/00151497-n:0/05808218-n:0/07214432-n:0
+patol patol NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+gicos gicos AQ0MP00 
+. . Fp 
+
++coor-n_[
+  sn_[
+    numero-nopart_[
+      +(Ocho 8 Z)
+    ]
+    +grup-nom-mp_[
+      +n-mp_[
+        +(meses mes NCMP000)
+      ]
+    ]
+    sadv_[
+      +(antes antes RG)
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(est est NCMS000)
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(: : Fd)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(udio udio NCMS000)
+        ]
+        n-ms_[
+          +(ecogr ecogr NCMS000)
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(¡ ¡ Fz)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(fico fico NCMS000)
+      ]
+    ]
+  ]
+  +(y y CC)
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(U.I.V. u.i.v. NP00000)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(sin sin SP)
+    ]
+    sn_[
+      +grup-nom-mp_[
+        +n-mp_[
+          +(hallazgos hallazgo NCMP000)
+        ]
+        n-ms_[
+          +(patol patol NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  s-adj_[
+    +s-a-mp_[
+      +a-mp_[
+        +(gicos gicos AQ0MP00)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+coor-n/top/(y y CC) [
+  sn/coor/(meses mes NCMP000) [
+    numero-nopart/spec/(Ocho 8 Z)
+    sadv/modnomatch/(antes antes RG)
+    Fc/punc/(, , Fc)
+    sn/mod/(est est NCMS000)
+    F-no-c/punc/(: : Fd)
+    sn/mod/(udio udio NCMS000) [
+      n-ms/mod/(ecogr ecogr NCMS000)
+    ]
+    F-no-c/punc/(Ã Ã Fz)
+    F-no-c/punc/(¡ ¡ Fz)
+  ]
+  sn/coor/(fico fico NCMS000)
+  sn/coor/(U.I.V. u.i.v. NP00000)
+  grup-sp/modnomatch/(sin sin SP) [
+    sn/comp/(hallazgos hallazgo NCMP000) [
+      n-ms/mod/(patol patol NCMS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  s-adj/modnomatch/(gicos gicos AQ0MP00)
+  F-term/punc/(. . Fp)
+]
+Entre entre SP 
+sus su DP3CPN 
+antecedentes antecedente NCMP000 06603651-n:0/07326880-n:0/13844923-n:0
+personales personal AQ0CP00 01616157-a:0/01767329-a:0/01768969-a:0/01779428-a:0/02858707-a:0/02858816-a:0
+cabe caber VMIP3S0 02735753-v:0
+destacar destacar VMN0000 00041206-v:0/00230033-v:0/00292368-v:0/00514069-v:0/00651991-v:0/00678105-v:0/01020005-v:0/02139544-v:0/02673965-v:0/02674564-v:0
+: : Fd 
+sin sin SP 
+alergias alergia NCFP000 14532816-n:0
+conocidas conocer VMP00PF 00594337-v:0/00594621-v:0/00595935-v:0/00608372-v:0/01426397-v:0/02023107-v:0/02596113-v:0/00965894-a:0/00966167-a:0/01375174-a:0/01375831-a:0
+. . Fp 
+
++grup-verb_[
+  grup-sp_[
+    +prep_[
+      +(Entre entre SP)
+    ]
+    sn_[
+      espec-mp_[
+        +pos-mp_[
+          +(sus su DP3CPN)
+        ]
+      ]
+      +grup-nom-mp_[
+        +n-mp_[
+          +(antecedentes antecedente NCMP000)
+        ]
+        s-a-mp_[
+          +a-mp_[
+            +(personales personal AQ0CP00)
+          ]
+        ]
+      ]
+    ]
+  ]
+  +verb_[
+    +(cabe caber VMIP3S0)
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(destacar destacar VMN0000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  grup-sp_[
+    +prep_[
+      +(sin sin SP)
+    ]
+    sn_[
+      +grup-nom-fp_[
+        +n-fp_[
+          +(alergias alergia NCFP000)
+        ]
+        s-a-fp_[
+          +parti-fp_[
+            +(conocidas conocer VMP00PF)
+          ]
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+grup-verb/top/(cabe caber VMIP3S0) [
+  grup-sp/adjt/(Entre entre SP) [
+    sn/comp/(antecedentes antecedente NCMP000) [
+      espec-mp/spec/(sus su DP3CPN)
+      s-a-mp/mod/(personales personal AQ0CP00)
+    ]
+  ]
+  grup-verb-inf/subj/(destacar destacar VMN0000)
+  F-no-c/punc/(: : Fd)
+  grup-sp/adjt/(sin sin SP) [
+    sn/comp/(alergias alergia NCFP000) [
+      s-a-fp/mod/(conocidas conocer VMP00PF)
+    ]
+    F-term/punc/(. . Fp)
+  ]
+]
+HTA hta NP00000 14103510-n:0
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(HTA hta NP00000)
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+sn/top/(HTA hta NP00000) [
+  F-term/punc/(. . Fp)
+]
+Diabetes_Mellitus diabetes_mellitus NP00000 14118138-n:0
+tipo tipo NCMS000 04504486-n:0/04998966-n:0/05839024-n:0/05840188-n:0/05844881-n:0/06795967-n:0/06825120-n:0/08111419-n:0/09908025-n:0/09909060-n:0/10083358-n:0/10153414-n:0/10626722-n:0/13325010-n:0
+II ii NP00000 
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(Diabetes_Mellitus diabetes_mellitus NP00000)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(tipo tipo NCMS000)
+      ]
+      w-ms_[
+        +(II ii NP00000)
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(Diabetes_Mellitus diabetes_mellitus NP00000) [
+  sn/mod/(tipo tipo NCMS000) [
+    w-ms/mod/(II ii NP00000)
+    F-term/punc/(. . Fp)
+  ]
+]
+Miocardiopat miocardiopat NP00000 
+Ã Ã Fz 
+­ ­ Fz 
+a a SP 
+hipertr hipertr VMN0000 
+Ã Ã Fz 
+³ ³ Fz 
+fica fica AQ0FS00 
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(Miocardiopat miocardiopat NP00000)
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(­ ­ Fz)
+  ]
+  grup-sp-inf_[
+    +prep_[
+      +(a a SP)
+    ]
+    grup-verb-inf_[
+      +infinitiu_[
+        +inf_[
+          +forma-inf_[
+            +(hipertr hipertr VMN0000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  s-adj_[
+    +s-a-fs_[
+      +a-fs_[
+        +(fica fica AQ0FS00)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+sn/top/(Miocardiopat miocardiopat NP00000) [
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(­ ­ Fz)
+  grup-sp-inf/mod/(a a SP) [
+    grup-verb-inf/comp/(hipertr hipertr VMN0000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  s-adj/mod/(fica fica AQ0FS00)
+  F-term/punc/(. . Fp)
+]
+Aneurisma aneurisma NCMS000 14106025-n:0
+carot carot NCMS000 
+Ã Ã Fz 
+­ ­ Fz 
+deo deo NCMS000 
+intracerebral intracerebral AQ0CS00 
+sin sin SP 
+secuelas secuela NCFP000 07294699-n:0/07295507-n:0/14550614-n:0
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +n-ms_[
+      +(Aneurisma aneurisma NCMS000)
+    ]
+    n-ms_[
+      +(carot carot NCMS000)
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(­ ­ Fz)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(deo deo NCMS000)
+      ]
+      s-a-ms_[
+        +a-ms_[
+          +(intracerebral intracerebral AQ0CS00)
+        ]
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(sin sin SP)
+    ]
+    sn_[
+      +grup-nom-fp_[
+        +n-fp_[
+          +(secuelas secuela NCFP000)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(Aneurisma aneurisma NCMS000) [
+  n-ms/mod/(carot carot NCMS000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(­ ­ Fz)
+  sn/mod/(deo deo NCMS000) [
+    s-a-ms/mod/(intracerebral intracerebral AQ0CS00)
+  ]
+  grup-sp/mod/(sin sin SP) [
+    sn/comp/(secuelas secuela NCFP000)
+    F-term/punc/(. . Fp)
+  ]
+]
+La el DA0FS0 
+exploraci exploraci NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+f f NCFS000 06831712-n:0/06891493-n:0/13714641-n:0
+Ã Ã Fz 
+­ ­ Fz 
+sica sica NCFS000 
+practicada practicar VMP00SF 00606093-v:0/01712704-v:0/01714208-v:0/01723224-v:0/02561332-v:0/02568672-v:0
+es ser VSIP3S0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+la el DA0FS0 
+siguiente siguiente AQ0CS00 00127296-a:0/00127815-a:0/00127948-a:0/00199569-a:0/01294975-a:0
+: : Fd 
+Abdomen abdomen NCMS000 05424796-n:0/05556943-n:0
+blando blando AQ0MS00 01026552-a:0/01152746-a:0/01154229-a:0/01154639-a:0/01156112-a:0/01156925-a:0/01159531-a:0/02399595-a:0/02404306-a:0/02448166-a:0
+y y CC 
+depresible depresible AQ0CS00 
+, , Fc 
+no no RN 00024073-r:0/00024356-r:0/00024587-r:0/00118531-r:0
+doloroso doloroso AQ0MS00 00478685-a:0/01189386-a:0/01366157-a:0/01711071-a:0/01804175-a:0/01805064-a:0
+, , Fc 
+no no RN 00024073-r:0/00024356-r:0/00024587-r:0/00118531-r:0
+megalias megalias NCMN000 
+, , Fc 
+Fosas fosas NP00000 
+renales renal AQ0CP00 02883599-a:0
+libres libre AQ0CP00 00518848-a:0/00600725-a:0/00916199-a:0/01058363-a:0/01061489-a:0/01065694-a:0/01416255-a:0/01622505-a:0/01624010-a:0/01624115-a:0/01710260-a:0/02365397-a:0
+indoloras indoloro AQ0FP00 00750712-a:0/01713095-a:0
+. . Fp 
+
++s-adj_[
+  espec-fs_[
+    +j-fs_[
+      +(La el DA0FS0)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(exploraci exploraci NCMS000)
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(³ ³ Fz)
+    ]
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(n n NCFS000)
+        ]
+        n-fs_[
+          +(f f NCFS000)
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(­ ­ Fz)
+    ]
+    grup-verb_[
+      sn_[
+        +grup-nom-fs_[
+          +n-fs_[
+            +(sica sica NCFS000)
+          ]
+          s-a-fs_[
+            +parti-fs_[
+              +(practicada practicar VMP00SF)
+            ]
+          ]
+        ]
+      ]
+      +verb_[
+        +(es ser VSIP3S0)
+      ]
+      sn_[
+        j-fs_[
+          +(la el DA0FS0)
+        ]
+        +s-a-fs_[
+          +a-fs_[
+            +(siguiente siguiente AQ0CS00)
+          ]
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(: : Fd)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(Abdomen abdomen NCMS000)
+        ]
+        s-a-ms_[
+          +a-ms_[
+            +(blando blando AQ0MS00)
+          ]
+        ]
+      ]
+    ]
+    coor-sa_[
+      +(y y CC)
+      s-adj_[
+        +s-a-ms_[
+          +a-ms_[
+            +(depresible depresible AQ0CS00)
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+    neg_[
+      +(no no RN)
+    ]
+  ]
+  +s-a-ms_[
+    +a-ms_[
+      +(doloroso doloroso AQ0MS00)
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  neg_[
+    +(no no RN)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(megalias megalias NCMN000)
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  sn_[
+    +grup-nom-mp_[
+      +w-mp_[
+        +(Fosas fosas NP00000)
+      ]
+      s-a-mp_[
+        +a-mp_[
+          +(renales renal AQ0CP00)
+        ]
+      ]
+    ]
+    s-adj_[
+      +s-a-mp_[
+        +a-mp_[
+          +(libres libre AQ0CP00)
+        ]
+      ]
+    ]
+    s-adj_[
+      +s-a-fp_[
+        +a-fp_[
+          +(indoloras indoloro AQ0FP00)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+s-adj/top/(doloroso doloroso AQ0MS00) [
+  espec-fs/spec/(La el DA0FS0) [
+    sn/modnomatch/(exploraci exploraci NCMS000)
+    F-no-c/modnomatch/(Ã Ã Fz)
+    F-no-c/modnomatch/(³ ³ Fz)
+    sn/modnomatch/(n n NCFS000) [
+      n-fs/mod/(f f NCFS000)
+    ]
+    F-no-c/modnomatch/(Ã Ã Fz)
+    F-no-c/modnomatch/(­ ­ Fz)
+    grup-verb/modnomatch/(es ser VSIP3S0) [
+      sn/subj/(sica sica NCFS000) [
+        s-a-fs/mod/(practicada practicar VMP00SF)
+      ]
+      sn/attr/(siguiente siguiente AQ0CS00) [
+        j-fs/spec/(la el DA0FS0)
+      ]
+    ]
+    F-no-c/modnomatch/(: : Fd)
+    sn/modnomatch/(Abdomen abdomen NCMS000) [
+      s-a-ms/mod/(blando blando AQ0MS00)
+    ]
+    coor-sa/modnomatch/(y y CC) [
+      s-adj/coor/(depresible depresible AQ0CS00)
+    ]
+    Fc/modnomatch/(, , Fc)
+    neg/modnomatch/(no no RN)
+  ]
+  Fc/punc/(, , Fc)
+  neg/modnomatch/(no no RN)
+  sn/modnomatch/(megalias megalias NCMN000) [
+    Fc/punc/(, , Fc)
+  ]
+  sn/modnomatch/(Fosas fosas NP00000) [
+    s-a-mp/mod/(renales renal AQ0CP00)
+    s-adj/mod/(libres libre AQ0CP00)
+    s-adj/mod/(indoloras indoloro AQ0FP00)
+    F-term/punc/(. . Fp)
+  ]
+]
+Genitales genitales NCMP000 05514081-n:0
+externos externo AQ0MP00 00948103-a:0/00948384-a:0/00949548-a:0/00951003-a:0/01037885-a:0/01350225-a:0
+sin sin SP 
+signos signo NCMP000 06646243-n:0/06791372-n:0/06811625-n:0/06817782-n:0/06879521-n:0/08685677-n:0/14301785-n:0
+patol patol NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+gicos gicos AQ0MP00 
+. . Fp 
+
++sn_[
+  +grup-nom-mp_[
+    +n-mp_[
+      +(Genitales genitales NCMP000)
+    ]
+    s-a-mp_[
+      +a-mp_[
+        +(externos externo AQ0MP00)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(sin sin SP)
+    ]
+    sn_[
+      +grup-nom-mp_[
+        +n-mp_[
+          +(signos signo NCMP000)
+        ]
+        n-ms_[
+          +(patol patol NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  s-adj_[
+    +s-a-mp_[
+      +a-mp_[
+        +(gicos gicos AQ0MP00)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+sn/top/(Genitales genitales NCMP000) [
+  s-a-mp/mod/(externos externo AQ0MP00)
+  grup-sp/mod/(sin sin SP) [
+    sn/comp/(signos signo NCMP000) [
+      n-ms/mod/(patol patol NCMS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  s-adj/mod/(gicos gicos AQ0MP00)
+  F-term/punc/(. . Fp)
+]
+Tacto tacto NCMS000 04841810-n:0/04946553-n:0/05655119-n:0/05722427-n:0
+rectal rectal AQ0CS00 02933426-a:0
+compatible compatible AQ0CS00 00507464-a:0/00509039-a:0/00509576-a:0/02072923-a:0
+con con SP 
+HBP hbp NP00000 
+grado grado NCMS000 04644512-n:0/05068716-n:0/05091316-n:0/05093890-n:0/05861317-n:0/06697331-n:0/13611207-n:0/13612319-n:0/13714184-n:0/13939892-n:0/14428160-n:0
+I-II i-ii NP00000 
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +n-ms_[
+      +(Tacto tacto NCMS000)
+    ]
+    s-a-ms_[
+      +a-ms_[
+        +(rectal rectal AQ0CS00)
+      ]
+    ]
+  ]
+  s-adj_[
+    +s-a-ms_[
+      +a-ms_[
+        +(compatible compatible AQ0CS00)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(con con SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +w-ms_[
+          +(HBP hbp NP00000)
+        ]
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(grado grado NCMS000)
+      ]
+      w-ms_[
+        +(I-II i-ii NP00000)
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(Tacto tacto NCMS000) [
+  s-a-ms/mod/(rectal rectal AQ0CS00)
+  s-adj/mod/(compatible compatible AQ0CS00)
+  grup-sp/mod/(con con SP) [
+    sn/comp/(HBP hbp NP00000)
+  ]
+  sn/mod/(grado grado NCMS000) [
+    w-ms/mod/(I-II i-ii NP00000)
+    F-term/punc/(. . Fp)
+  ]
+]
+Se se P00CN00 
+llevan_a_cabo llevar_a_cabo VMIP3P0 00251463-v:0/01641545-v:0/01712704-v:0/02367363-v:0/02560767-v:0/02568672-v:0
+las el DA0FP0 
+siguientes siguiente AQ0CP00 00127296-a:0/00127815-a:0/00127948-a:0/00199569-a:0/01294975-a:0
+EXPLORACIONES_COMPLEMENTARIAS exploraciones_complementarias NP00000 
+: : Fd 
+ANALISIS analisis NP00000 
+: : Fd 
+Glucemia glucemia NP00000 14884481-n:0
+145_mg WG_mg:145 Zu 
+/ / Fh 
+dl decilitro NCMN000 13624026-n:0
+, , Fc 
+Creatinina creatinina NP00000 
+1.4_mg WG_mg:1.4 Zu 
+/ / Fh 
+dl decilitro NCMN000 13624026-n:0
+. . Fp 
+
++grup-verb_[
+  morfema-verbal_[
+    +(Se se P00CN00)
+  ]
+  +grup-verb_[
+    +verb_[
+      +(llevan_a_cabo llevar_a_cabo VMIP3P0)
+    ]
+  ]
+  sn_[
+    espec-fp_[
+      +j-fp_[
+        +(las el DA0FP0)
+      ]
+    ]
+    +grup-nom-fp_[
+      s-a-fp_[
+        +a-fp_[
+          +(siguientes siguiente AQ0CP00)
+        ]
+      ]
+      +grup-nom-fp_[
+        +w-fp_[
+          +(EXPLORACIONES_COMPLEMENTARIAS exploraciones_complementarias NP00000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(ANALISIS analisis NP00000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Glucemia glucemia NP00000)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom_[
+      +(145_mg WG_mg:145 Zu)
+    ]
+  ]
+  F-no-c_[
+    +(/ / Fh)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(dl decilitro NCMN000)
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Creatinina creatinina NP00000)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom_[
+      +(1.4_mg WG_mg:1.4 Zu)
+    ]
+  ]
+  F-no-c_[
+    +(/ / Fh)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(dl decilitro NCMN000)
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+grup-verb/top/(llevan_a_cabo llevar_a_cabo VMIP3P0) [
+  morfema-verbal/mphes/(Se se P00CN00)
+  sn/subj/(EXPLORACIONES_COMPLEMENTARIAS exploraciones_complementarias NP00000) [
+    espec-fp/spec/(las el DA0FP0)
+    s-a-fp/mod/(siguientes siguiente AQ0CP00)
+  ]
+  F-no-c/punc/(: : Fd)
+  sn/dobj/(ANALISIS analisis NP00000)
+  F-no-c/punc/(: : Fd)
+  sn/modnomatch/(Glucemia glucemia NP00000)
+  sn/modnomatch/(145_mg WG_mg:145 Zu)
+  F-no-c/punc/(/ / Fh)
+  sn/modnomatch/(dl decilitro NCMN000) [
+    Fc/punc/(, , Fc)
+  ]
+  sn/modnomatch/(Creatinina creatinina NP00000)
+  sn/modnomatch/(1.4_mg WG_mg:1.4 Zu)
+  F-no-c/punc/(/ / Fh)
+  sn/modnomatch/(dl decilitro NCMN000) [
+    F-term/punc/(. . Fp)
+  ]
+]
+Resto resto NCMS000 03286383-n:0/09407346-n:0/13729236-n:0/13733663-n:0/13810818-n:0/14857897-n:0
+de de SP 
+par par NCMS000 03728811-n:0/07985223-n:0/09626238-n:0/10412910-n:0/11519702-n:0/13596756-n:0/13743605-n:0/13771290-n:0/13946760-n:0
+Ã Ã Fz 
+¡ ¡ Fz 
+metros metro NCMP000 00060817-n:0/03733925-n:0/03753077-n:0/03757138-n:0/04349306-n:0/04392113-n:0/04508804-n:0/07094093-n:0/13659162-n:0
+dentro_de dentro_de SP 
+la el DA0FS0 
+normalidad normalidad NCFS000 04714058-n:0/14500908-n:0
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +n-ms_[
+      +(Resto resto NCMS000)
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(par par NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  sn_[
+    +grup-nom-mp_[
+      +n-mp_[
+        +(metros metro NCMP000)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(dentro_de dentro_de SP)
+    ]
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(normalidad normalidad NCFS000)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(Resto resto NCMS000) [
+  sp-de/mod/(de de SP) [
+    sn/comp/(par par NCMS000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  sn/mod/(metros metro NCMP000)
+  grup-sp/mod/(dentro_de dentro_de SP) [
+    sn/comp/(normalidad normalidad NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+    ]
+    F-term/punc/(. . Fp)
+  ]
+]
+CITOLOGIA_URINARIA citologia_urinaria NP00000 
+: : Fd 
+Compatible compatible NP00000 
+con con SP 
+carcinoma carcinoma NCMS000 14239918-n:0/14242337-n:0
+de de SP 
+c c NCFS000 03066743-n:0/06831391-n:0/06902696-n:0/13714491-n:0
+Ã Ã Fz 
+© © Fz 
+lulas lulas NCFP000 
+transicionales transicional AQ0CP00 02944694-a:0
+de de SP 
+bajo bajo SP 
+grado grado NCMS000 04644512-n:0/05068716-n:0/05091316-n:0/05093890-n:0/05861317-n:0/06697331-n:0/13611207-n:0/13612319-n:0/13714184-n:0/13939892-n:0/14428160-n:0
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(CITOLOGIA_URINARIA citologia_urinaria NP00000)
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Compatible compatible NP00000)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(con con SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(carcinoma carcinoma NCMS000)
+        ]
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(c c NCFS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(© © Fz)
+  ]
+  sn_[
+    +grup-nom-fp_[
+      +n-fp_[
+        +(lulas lulas NCFP000)
+      ]
+      s-a-fp_[
+        +a-fp_[
+          +(transicionales transicional AQ0CP00)
+        ]
+      ]
+    ]
+  ]
+  prep_[
+    +(de de SP)
+  ]
+  grup-sp_[
+    +prep_[
+      +(bajo bajo SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(grado grado NCMS000)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(CITOLOGIA_URINARIA citologia_urinaria NP00000) [
+  F-no-c/punc/(: : Fd)
+  sn/mod/(Compatible compatible NP00000)
+  grup-sp/mod/(con con SP) [
+    sn/comp/(carcinoma carcinoma NCMS000)
+  ]
+  sp-de/mod/(de de SP) [
+    sn/comp/(c c NCFS000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(© © Fz)
+  sn/mod/(lulas lulas NCFP000) [
+    s-a-fp/mod/(transicionales transicional AQ0CP00)
+  ]
+  prep/modnomatch/(de de SP)
+  grup-sp/mod/(bajo bajo SP) [
+    sn/comp/(grado grado NCMS000)
+    F-term/punc/(. . Fp)
+  ]
+]
+PIELOGRAFIA_DESCENDENTE pielografia_descendente NP00000 
+a a SP 
+traves traves AQ0CP00 
+de de SP 
+Nefrostomia nefrostomia NP00000 
+: : Fd 
+Defecto defecto NCMS000 04692157-n:0/05162642-n:0/14462946-n:0/14464203-n:0
+de de SP 
+replecci replecci NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+a a SP 
+nivel nivel NCMS000 03658858-n:0/05093890-n:0/05131902-n:0/13939892-n:0/14428160-n:0/14429985-n:0
+de de SP 
+ur ur NCMS000 
+Ã Ã Fz 
+© © Fz 
+ter ter RG 
+sacro-il sacro-il AQ0CS00 
+Ã Ã Fz 
+­ ­ Fz 
+aco aco NCMS000 
+derecho derecho NCMS000 00611143-n:0/05174653-n:0/05181199-n:0/06161718-n:0
+de de SP 
+aproximadamente aproximadamente RG 00007015-r:0/00071840-r:0/00073033-r:0
+20_mm LN_mm:20 Zu 
+de de SP 
+longitud longitud NCFS000 05129201-n:0/05133107-n:0/05133535-n:0/08596668-n:0
+, , Fc 
+con con SP 
+signos signo NCMP000 06646243-n:0/06791372-n:0/06811625-n:0/06817782-n:0/06879521-n:0/08685677-n:0/14301785-n:0
+de de SP 
+infiltraci infiltraci NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+de de SP 
+la el DA0FS0 
+pared pared NCFS000 04546855-n:0/09474162-n:0
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(PIELOGRAFIA_DESCENDENTE pielografia_descendente NP00000)
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(a a SP)
+    ]
+    s-a-mp_[
+      +a-mp_[
+        +(traves traves AQ0CP00)
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      +grup-nom-ms_[
+        +w-ms_[
+          +(Nefrostomia nefrostomia NP00000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(Defecto defecto NCMS000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +grup-nom-ms_[
+          +n-ms_[
+            +(replecci replecci NCMS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(a a SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(nivel nivel NCMS000)
+        ]
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(ur ur NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(© © Fz)
+  ]
+  s-adj_[
+    sadv_[
+      +(ter ter RG)
+    ]
+    +s-a-ms_[
+      +a-ms_[
+        +(sacro-il sacro-il AQ0CS00)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(­ ­ Fz)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(aco aco NCMS000)
+      ]
+      n-ms_[
+        +(derecho derecho NCMS000)
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(de de SP)
+    ]
+    sadv_[
+      +(aproximadamente aproximadamente RG)
+    ]
+  ]
+  sn_[
+    +grup-nom_[
+      +(20_mm LN_mm:20 Zu)
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +grup-nom-fs_[
+          +n-fs_[
+            +(longitud longitud NCFS000)
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(con con SP)
+    ]
+    sn_[
+      +grup-nom-mp_[
+        +n-mp_[
+          +(signos signo NCMP000)
+        ]
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(infiltraci infiltraci NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        espec-fs_[
+          +j-fs_[
+            +(la el DA0FS0)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(pared pared NCFS000)
+          ]
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(PIELOGRAFIA_DESCENDENTE pielografia_descendente NP00000) [
+  grup-sp/mod/(a a SP) [
+    s-a-mp/comp/(traves traves AQ0CP00)
+  ]
+  sp-de/mod/(de de SP) [
+    sn/comp/(Nefrostomia nefrostomia NP00000)
+  ]
+  F-no-c/punc/(: : Fd)
+  sn/mod/(Defecto defecto NCMS000) [
+    sp-de/mod/(de de SP) [
+      sn/comp/(replecci replecci NCMS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/mod/(n n NCFS000)
+  grup-sp/mod/(a a SP) [
+    sn/comp/(nivel nivel NCMS000)
+  ]
+  sp-de/mod/(de de SP) [
+    sn/comp/(ur ur NCMS000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(© © Fz)
+  s-adj/mod/(sacro-il sacro-il AQ0CS00) [
+    sadv/spec/(ter ter RG)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(­ ­ Fz)
+  sn/mod/(aco aco NCMS000) [
+    n-ms/mod/(derecho derecho NCMS000)
+  ]
+  grup-sp/mod/(de de SP) [
+    sadv/comp/(aproximadamente aproximadamente RG)
+  ]
+  sn/mod/(20_mm LN_mm:20 Zu) [
+    sp-de/mod/(de de SP) [
+      sn/comp/(longitud longitud NCFS000)
+    ]
+    Fc/punc/(, , Fc)
+  ]
+  grup-sp/mod/(con con SP) [
+    sn/comp/(signos signo NCMP000)
+  ]
+  sp-de/mod/(de de SP) [
+    sn/comp/(infiltraci infiltraci NCMS000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/mod/(n n NCFS000) [
+    sp-de/mod/(de de SP) [
+      sn/comp/(pared pared NCFS000) [
+        espec-fs/spec/(la el DA0FS0)
+      ]
+    ]
+    F-term/punc/(. . Fp)
+  ]
+]
+ESTUDIO_FUNCIONAL_DE_RI estudio_funcional_de_ri NP00000 
+Ã Ã Fz 
+‘ ‘ Fz 
+ON_DERECHO on_derecho NP00000 
+: : Fd 
+Aclaramiento_de_Creatinina aclaramiento_de_creatinina NP00000 
+inferior inferior AQ0CS00 01207546-a:0/01303946-a:0/01395488-a:0/02100968-a:0/02297409-a:0/02340213-a:0/02345272-a:0/02347489-a:0/02440691-a:0/02441132-a:0
+a a SP 
+5_ml VL_ml:5 Zu 
+/ / Fh 
+minuto minuto NCMS000 05131023-n:0/13611567-n:0/15234764-n:0/15244650-n:0/15246353-n:0/15246853-n:0
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(ESTUDIO_FUNCIONAL_DE_RI estudio_funcional_de_ri NP00000)
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(‘ ‘ Fz)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(ON_DERECHO on_derecho NP00000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Aclaramiento_de_Creatinina aclaramiento_de_creatinina NP00000)
+      ]
+      s-a-ms_[
+        +a-ms_[
+          +(inferior inferior AQ0CS00)
+        ]
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(a a SP)
+    ]
+    sn_[
+      +grup-nom_[
+        +(5_ml VL_ml:5 Zu)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(/ / Fh)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(minuto minuto NCMS000)
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(ESTUDIO_FUNCIONAL_DE_RI estudio_funcional_de_ri NP00000) [
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(‘ ‘ Fz)
+  sn/mod/(ON_DERECHO on_derecho NP00000)
+  F-no-c/punc/(: : Fd)
+  sn/mod/(Aclaramiento_de_Creatinina aclaramiento_de_creatinina NP00000) [
+    s-a-ms/mod/(inferior inferior AQ0CS00)
+  ]
+  grup-sp/mod/(a a SP) [
+    sn/comp/(5_ml VL_ml:5 Zu)
+  ]
+  F-no-c/punc/(/ / Fh)
+  sn/mod/(minuto minuto NCMS000) [
+    F-term/punc/(. . Fp)
+  ]
+]
+TAC_ABDOMINO-PELVICO tac_abdomino-pelvico NP00000 
+: : Fd 
+Aneurisma_de_Aorta aneurisma_de_aorta NP00000 14106352-n:0
+infrarrenal infrarrenal AQ0CS00 
+. . Fp 
+
++sn_[
+  +grup-nom-ms_[
+    +w-ms_[
+      +(TAC_ABDOMINO-PELVICO tac_abdomino-pelvico NP00000)
+    ]
+  ]
+  F-no-c_[
+    +(: : Fd)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Aneurisma_de_Aorta aneurisma_de_aorta NP00000)
+      ]
+      s-a-ms_[
+        +a-ms_[
+          +(infrarrenal infrarrenal AQ0CS00)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(TAC_ABDOMINO-PELVICO tac_abdomino-pelvico NP00000) [
+  F-no-c/punc/(: : Fd)
+  sn/mod/(Aneurisma_de_Aorta aneurisma_de_aorta NP00000) [
+    s-a-ms/mod/(infrarrenal infrarrenal AQ0CS00)
+    F-term/punc/(. . Fp)
+  ]
+]
+Atrofia atrofia NCFS000 07427060-n:0/14365741-n:0
+hidronefr hidronefr NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+tica tica NCFS000 
+de de SP 
+ri ri NCCS000 
+Ã Ã Fz 
+± ± Fz 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+derecho derecho AQ0MS00 01234030-a:0/01237754-a:0/01239862-a:0/02029047-a:0/02031986-a:0/02032386-a:0/02314584-a:0
+, , Fc 
+sin sin SP 
+visualizar visualizar VMN0000 00581205-v:0/01635432-v:0/01636008-v:0/01636221-v:0/02151394-v:0
+se se PP3CN00 
+im im NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+genes gen NCMP000 05436752-n:0/06637677-n:0
+endoluminales endoluminales AQ0CP00 
+intraureterales intraureterales AQ0CP00 
+. . Fp 
+
++sn_[
+  +grup-nom-fs_[
+    +n-fs_[
+      +(Atrofia atrofia NCFS000)
+    ]
+    n-ms_[
+      +(hidronefr hidronefr NCMS000)
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(tica tica NCFS000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +grup-nom-ms_[
+          +n-ms_[
+            +(ri ri NCCS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(± ± Fz)
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+    ]
+    s-adj_[
+      +s-a-ms_[
+        +a-ms_[
+          +(derecho derecho AQ0MS00)
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  grup-sp-inf_[
+    +prep_[
+      +(sin sin SP)
+    ]
+    grup-verb-inf_[
+      +infinitiu_[
+        +inf_[
+          +forma-inf_[
+            +(visualizar visualizar VMN0000)
+          ]
+          (se se PP3CN00)
+        ]
+      ]
+      sn_[
+        +grup-nom-ms_[
+          +n-ms_[
+            +(im im NCMS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  sn_[
+    +grup-nom-mp_[
+      +n-mp_[
+        +(genes gen NCMP000)
+      ]
+      s-a-mp_[
+        +a-mp_[
+          +(endoluminales endoluminales AQ0CP00)
+        ]
+      ]
+    ]
+    s-adj_[
+      +s-a-mp_[
+        +a-mp_[
+          +(intraureterales intraureterales AQ0CP00)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+sn/top/(Atrofia atrofia NCFS000) [
+  n-ms/mod/(hidronefr hidronefr NCMS000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/mod/(tica tica NCFS000) [
+    sp-de/mod/(de de SP) [
+      sn/comp/(ri ri NCCS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(± ± Fz)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/mod/(n n NCFS000) [
+    s-adj/mod/(derecho derecho AQ0MS00)
+    Fc/punc/(, , Fc)
+  ]
+  grup-sp-inf/mod/(sin sin SP) [
+    grup-verb-inf/comp/(visualizar visualizar VMN0000) [
+      PP3CN00/mphes/(se se PP3CN00)
+      sn/dobj/(im im NCMS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  sn/mod/(genes gen NCMP000) [
+    s-a-mp/mod/(endoluminales endoluminales AQ0CP00)
+    s-adj/mod/(intraureterales intraureterales AQ0CP00)
+    F-term/punc/(. . Fp)
+  ]
+]
+Dudosas dudoso AQ0FP00 00337404-a:0/00338013-a:0/00338275-a:0/00615457-a:0/01916784-a:0/01916979-a:0/01917594-a:0/01984669-a:0/02059381-a:0/02130672-a:0/02466566-a:0
+adenopat adenopat NCMS000 
+Ã Ã Fz 
+­ ­ Fz 
+as as NCMS000 02673291-n:0/09762509-n:0
+paravesicales paravesical AQ0CP00 
+. . Fp 
+
++s-adj_[
+  +s-a-fp_[
+    +a-fp_[
+      +(Dudosas dudoso AQ0FP00)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(adenopat adenopat NCMS000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(­ ­ Fz)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(as as NCMS000)
+      ]
+    ]
+    s-adj_[
+      +s-a-mp_[
+        +a-mp_[
+          +(paravesicales paravesical AQ0CP00)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+s-adj/top/(Dudosas dudoso AQ0FP00) [
+  sn/modnomatch/(adenopat adenopat NCMS000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(­ ­ Fz)
+  sn/modnomatch/(as as NCMS000) [
+    s-adj/mod/(paravesicales paravesical AQ0CP00)
+    F-term/punc/(. . Fp)
+  ]
+]
+Ante ante SP 
+estos este DD0MP0 
+hallazgos hallazgo NCMP000 00043195-n:0/00151497-n:0/05808218-n:0/07214432-n:0
+y y CC 
+la el DA0FS0 
+sospecha sospecha NCFS000 04895773-n:0/05698791-n:0/13982839-n:0
+de de SP 
+tumor tumor NCMS000 14235200-n:0
+de de SP 
+v v NCFS000 06833436-n:0/14661020-n:0
+Ã Ã Fz 
+­ ­ Fz 
+as as NCMS000 02673291-n:0/09762509-n:0
+de de SP 
+ur ur NCMS000 
+Ã Ã Fz 
+© © Fz 
+ter ter RG 
+derecho derecho NCMS000 00611143-n:0/05174653-n:0/05181199-n:0/06161718-n:0
+, , Fc 
+el el DA0MS0 
+paciente paciente NCCS000 10207681-n:0/10405694-n:0
+es ser VSIP3S0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+intervenido intervenir VMP00SM 00083809-v:0/01082606-v:0/01440378-v:0/02188848-v:0/02273293-v:0/02450256-v:0/02538765-v:0/02691489-v:0/02568738-a:0
+quir quir VMN0000 
+Ã Ã Fz 
+º º Fz 
+rgicamente rgicamente RG 
+practic practic NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+ndose ndose VMSP3S0 
+nefroureterectom nefroureterectom NCMS000 
+Ã Ã Fz 
+­ ­ Fz 
+a a SP 
+radical radical AQ0CS00 00318667-a:0/01535270-a:0/01856802-a:0
+derecha derecha NCFS000 05565337-n:0/08416652-n:0/08625073-n:0
+con con SP 
+evoluci evoluci NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+postoperatoria postoperatorio AQ0FS00 01169660-a:0
+satisfactoria satisfactorio AQ0FS00 01124768-a:0/01807219-a:0/02015571-a:0/02080577-a:0
+. . Fp 
+
++verb-pass_[
+  grup-sp_[
+    +prep_[
+      +(Ante ante SP)
+    ]
+    sn_[
+      espec-mp_[
+        +dem-mp_[
+          +(estos este DD0MP0)
+        ]
+      ]
+      +grup-nom-mp_[
+        +n-mp_[
+          +(hallazgos hallazgo NCMP000)
+        ]
+      ]
+    ]
+    coor-n_[
+      +(y y CC)
+      sn_[
+        espec-fs_[
+          +j-fs_[
+            +(la el DA0FS0)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(sospecha sospecha NCFS000)
+          ]
+        ]
+        sp-de_[
+          +(de de SP)
+          sn_[
+            +grup-nom-ms_[
+              +n-ms_[
+                +(tumor tumor NCMS000)
+              ]
+            ]
+          ]
+        ]
+        sp-de_[
+          +(de de SP)
+          sn_[
+            +grup-nom-fs_[
+              +n-fs_[
+                +(v v NCFS000)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(­ ­ Fz)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(as as NCMS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          +grup-nom-ms_[
+            +n-ms_[
+              +(ur ur NCMS000)
+            ]
+          ]
+        ]
+      ]
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(© © Fz)
+    ]
+  ]
+  sadv_[
+    +(ter ter RG)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(derecho derecho NCMS000)
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +j-ms_[
+        +(el el DA0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(paciente paciente NCCS000)
+      ]
+    ]
+  ]
+  vser_[
+    +(es ser VSIP3S0)
+  ]
+  +parti-flex_[
+    +parti-ms_[
+      +(intervenido intervenir VMP00SM)
+    ]
+  ]
+  grup-verb-inf_[
+    +infinitiu_[
+      +inf_[
+        +forma-inf_[
+          +(quir quir VMN0000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(º º Fz)
+  ]
+  sadv_[
+    +(rgicamente rgicamente RG)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(practic practic NCMS000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  grup-verb_[
+    +verb_[
+      +(ndose ndose VMSP3S0)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(nefroureterectom nefroureterectom NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(­ ­ Fz)
+  ]
+  grup-sp_[
+    +prep_[
+      +(a a SP)
+    ]
+    sn_[
+      +grup-nom-fs_[
+        s-a-fs_[
+          +a-fs_[
+            +(radical radical AQ0CS00)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(derecha derecha NCFS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  grup-sp_[
+    +prep_[
+      +(con con SP)
+    ]
+    sn_[
+      +grup-nom-ms_[
+        +n-ms_[
+          +(evoluci evoluci NCMS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+      s-a-fs_[
+        +a-fs_[
+          +(postoperatoria postoperatorio AQ0FS00)
+        ]
+      ]
+    ]
+    s-adj_[
+      +s-a-fs_[
+        +a-fs_[
+          +(satisfactoria satisfactorio AQ0FS00)
+        ]
+      ]
+    ]
+    F-term_[
+      +(. . Fp)
+    ]
+  ]
+]
+verb-pass/top/(intervenido intervenir VMP00SM) [
+  vser/aux/(es ser VSIP3S0)
+  grup-sp/adjt/(Ante ante SP) [
+    sn/comp/(hallazgos hallazgo NCMP000) [
+      espec-mp/spec/(estos este DD0MP0)
+    ]
+    coor-n/comp/(y y CC) [
+      sn/coor/(sospecha sospecha NCFS000) [
+        espec-fs/spec/(la el DA0FS0)
+        sp-de/mod/(de de SP) [
+          sn/comp/(tumor tumor NCMS000)
+        ]
+        sp-de/mod/(de de SP) [
+          sn/comp/(v v NCFS000)
+        ]
+      ]
+    ]
+    F-no-c/punc/(Ã Ã Fz)
+    F-no-c/punc/(­ ­ Fz)
+    sn/comp/(as as NCMS000) [
+      sp-de/mod/(de de SP) [
+        sn/comp/(ur ur NCMS000)
+      ]
+    ]
+    F-no-c/punc/(Ã Ã Fz)
+    F-no-c/punc/(© © Fz)
+  ]
+  sadv/adjt/(ter ter RG)
+  sn/subj/(derecho derecho NCMS000) [
+    Fc/punc/(, , Fc)
+  ]
+  sn/modnomatch/(paciente paciente NCCS000) [
+    espec-ms/spec/(el el DA0MS0)
+  ]
+  grup-verb-inf/modnomatch/(quir quir VMN0000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(º º Fz)
+  sadv/adjt/(rgicamente rgicamente RG)
+  sn/modnomatch/(practic practic NCMS000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  grup-verb/modnomatch/(ndose ndose VMSP3S0) [
+    sn/dobj/(nefroureterectom nefroureterectom NCMS000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(­ ­ Fz)
+  grup-sp/dobj/(a a SP) [
+    sn/comp/(derecha derecha NCFS000) [
+      s-a-fs/mod/(radical radical AQ0CS00)
+    ]
+  ]
+  grup-sp/adjt/(con con SP) [
+    sn/comp/(evoluci evoluci NCMS000)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/modnomatch/(n n NCFS000) [
+    s-a-fs/mod/(postoperatoria postoperatorio AQ0FS00)
+    s-adj/mod/(satisfactoria satisfactorio AQ0FS00)
+    F-term/punc/(. . Fp)
+  ]
+]
+El el DA0MS0 
+dictamen dictamen NCMS000 01191158-n:0/06727616-n:0/06746005-n:0/06765887-n:0
+histopatol histopatol NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+gico gico AQ0MS00 
+de de SP 
+la el DA0FS0 
+pieza pieza NCFS000 03716327-n:0/07037465-n:0/13388245-n:0
+nos nos PP1CP00 
+informa informar VMIP3S0 00599720-v:0/00720961-v:0/00742320-v:0/00831074-v:0/00831651-v:0/00832778-v:0/00833199-v:0/00873682-v:0/00874175-v:0/00879212-v:0/00901103-v:0/00965035-v:0/00965390-v:0/00966809-v:0/00967098-v:0
+de de SP 
+pielonefritis pielonefritis NCFN000 14566308-n:0
+cr cr NCFS000 14635092-n:0
+Ã Ã Fz 
+³ ³ Fz 
+nica nica AQ0FS00 
+y y CC 
+cambios cambio NCMP000 00068170-n:0/00191142-n:0/00196084-n:0/00199707-n:0/01093085-n:0/01109687-n:0/01166258-n:0/03431745-n:0/04752034-n:0/07296428-n:0/07359599-n:0/13387479-n:0/13387689-n:0/13388000-n:0/13388111-n:0/13859043-n:0
+de de SP 
+arteriosclerosis arteriosclerosis NCFN000 14108324-n:0
+, , Fc 
+as as NCMS000 02673291-n:0/09762509-n:0
+Ã Ã Fz 
+­ ­ Fz 
+como como CS 
+lesi lesi RG 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+inflamatoria inflamatorio AQ0FS00 01177246-a:0
+ureteral ureteral AQ0CS00 
+que que PR0CN00 
+oblitera obliterar VMIP3S0 00311338-v:0/00472230-v:0/02762299-v:0
+la el DA0FS0 
+luz luz NCFS000 03665366-n:0/04263760-n:0/04951373-n:0/05018103-n:0/05807933-n:0/06210791-n:0/06874019-n:0/11470348-n:0/11473954-n:0/13983304-n:0/14563784-n:0
+con con SP 
+infiltrado infiltrar VMP00SM 02435634-v:0
+de de SP 
+linfocitos linfocito NCMP000 05451384-n:0
+en en SP 
+capas capa NCFP000 00712225-n:0/01463259-n:0/02819697-n:0/02955767-n:0/03045337-n:0/03058107-n:0/03338648-n:0/03650173-n:0/08591680-n:0/09223725-n:0/09273776-n:0
+musculares muscular AQ0CP00 02882570-a:0
+, , Fc 
+erosi erosi RG 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+de de SP 
+urotelio urotelio NCMS000 
+y y CC 
+presencia presencia NCFS000 01233397-n:0/01233802-n:0/04673965-n:0/04910377-n:0/05917174-n:0/08642632-n:0/09547528-n:0/13957601-n:0
+de de SP 
+Actinomices actinomices NP00000 
+. . Fp 
+
++grup-verb_[
+  sn_[
+    espec-ms_[
+      +j-ms_[
+        +(El el DA0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(dictamen dictamen NCMS000)
+      ]
+      n-ms_[
+        +(histopatol histopatol NCMS000)
+      ]
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(³ ³ Fz)
+    ]
+  ]
+  s-adj_[
+    +s-a-ms_[
+      +a-ms_[
+        +(gico gico AQ0MS00)
+      ]
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      espec-fs_[
+        +j-fs_[
+          +(la el DA0FS0)
+        ]
+      ]
+      +grup-nom-fs_[
+        +n-fs_[
+          +(pieza pieza NCFS000)
+        ]
+      ]
+    ]
+  ]
+  patons_[
+    +paton-p_[
+      +(nos nos PP1CP00)
+    ]
+  ]
+  +grup-verb_[
+    +verb_[
+      +(informa informar VMIP3S0)
+    ]
+  ]
+  sp-de_[
+    +(de de SP)
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(pielonefritis pielonefritis NCFN000)
+        ]
+        n-fs_[
+          +(cr cr NCFS000)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  s-adj_[
+    +s-a-fs_[
+      +a-fs_[
+        +(nica nica AQ0FS00)
+      ]
+    ]
+  ]
+  coor-n_[
+    +(y y CC)
+    sn_[
+      +grup-nom-mp_[
+        +n-mp_[
+          +(cambios cambio NCMP000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          +grup-nom-fs_[
+            +n-fs_[
+              +(arteriosclerosis arteriosclerosis NCFN000)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  Fc_[
+    +(, , Fc)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(as as NCMS000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(­ ­ Fz)
+  ]
+  grup-sp_[
+    +prep_[
+      +(como como CS)
+    ]
+    sadv_[
+      +(lesi lesi RG)
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+      s-a-fs_[
+        +a-fs_[
+          +(inflamatoria inflamatorio AQ0FS00)
+        ]
+      ]
+    ]
+    s-adj_[
+      +s-a-ms_[
+        +a-ms_[
+          +(ureteral ureteral AQ0CS00)
+        ]
+      ]
+    ]
+    relativa_[
+      relatiu-sn_[
+        +(que que PR0CN00)
+      ]
+      +verb_[
+        +(oblitera obliterar VMIP3S0)
+      ]
+      sn_[
+        espec-fs_[
+          +j-fs_[
+            +(la el DA0FS0)
+          ]
+        ]
+        +grup-nom-fs_[
+          +n-fs_[
+            +(luz luz NCFS000)
+          ]
+        ]
+      ]
+      grup-sp_[
+        +prep_[
+          +(con con SP)
+        ]
+        s-a-ms_[
+          +parti-ms_[
+            +(infiltrado infiltrar VMP00SM)
+          ]
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          +grup-nom-mp_[
+            +n-mp_[
+              +(linfocitos linfocito NCMP000)
+            ]
+          ]
+        ]
+      ]
+      grup-sp_[
+        +prep_[
+          +(en en SP)
+        ]
+        sn_[
+          +grup-nom-fp_[
+            +n-fp_[
+              +(capas capa NCFP000)
+            ]
+            s-a-fp_[
+              +a-fp_[
+                +(musculares muscular AQ0CP00)
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  sadv_[
+    +(erosi erosi RG)
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  coor-n_[
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(n n NCFS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          +grup-nom-ms_[
+            +n-ms_[
+              +(urotelio urotelio NCMS000)
+            ]
+          ]
+        ]
+      ]
+    ]
+    +(y y CC)
+    sn_[
+      +grup-nom-fs_[
+        +n-fs_[
+          +(presencia presencia NCFS000)
+        ]
+      ]
+      sp-de_[
+        +(de de SP)
+        sn_[
+          +grup-nom-ms_[
+            +w-ms_[
+              +(Actinomices actinomices NP00000)
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+grup-verb/top/(informa informar VMIP3S0) [
+  patons/mphes/(nos nos PP1CP00)
+  sn/subj/(dictamen dictamen NCMS000) [
+    espec-ms/spec/(El el DA0MS0)
+    n-ms/mod/(histopatol histopatol NCMS000)
+    F-no-c/punc/(Ã Ã Fz)
+    F-no-c/punc/(³ ³ Fz)
+  ]
+  s-adj/modnomatch/(gico gico AQ0MS00)
+  sp-de/adjt/(de de SP) [
+    sn/comp/(pieza pieza NCFS000) [
+      espec-fs/spec/(la el DA0FS0)
+    ]
+  ]
+  sp-de/pobj/(de de SP) [
+    sn/comp/(pielonefritis pielonefritis NCFN000) [
+      n-fs/mod/(cr cr NCFS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  s-adj/modnomatch/(nica nica AQ0FS00)
+  coor-n/dobj/(y y CC) [
+    sn/coor/(cambios cambio NCMP000) [
+      sp-de/mod/(de de SP) [
+        sn/comp/(arteriosclerosis arteriosclerosis NCFN000)
+      ]
+    ]
+  ]
+  Fc/punc/(, , Fc)
+  sn/modnomatch/(as as NCMS000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(­ ­ Fz)
+  grup-sp/adjt/(como como CS) [
+    sadv/comp/(lesi lesi RG)
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/modnomatch/(n n NCFS000) [
+    s-a-fs/mod/(inflamatoria inflamatorio AQ0FS00)
+    s-adj/mod/(ureteral ureteral AQ0CS00)
+    relativa/mod/(oblitera obliterar VMIP3S0) [
+      relatiu-sn/subj/(que que PR0CN00)
+      sn/dobj/(luz luz NCFS000) [
+        espec-fs/spec/(la el DA0FS0)
+      ]
+      grup-sp/adjt/(con con SP) [
+        s-a-ms/comp/(infiltrado infiltrar VMP00SM)
+      ]
+      sp-de/adjt/(de de SP) [
+        sn/comp/(linfocitos linfocito NCMP000)
+      ]
+      grup-sp/adjt/(en en SP) [
+        sn/comp/(capas capa NCFP000) [
+          s-a-fp/mod/(musculares muscular AQ0CP00)
+        ]
+      ]
+    ]
+    Fc/punc/(, , Fc)
+  ]
+  sadv/adjt/(erosi erosi RG)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  coor-n/modnomatch/(y y CC) [
+    sn/coor/(n n NCFS000) [
+      sp-de/mod/(de de SP) [
+        sn/comp/(urotelio urotelio NCMS000)
+      ]
+    ]
+    sn/coor/(presencia presencia NCFS000) [
+      sp-de/mod/(de de SP) [
+        sn/comp/(Actinomices actinomices NP00000)
+      ]
+    ]
+  ]
+  F-term/punc/(. . Fp)
+]
+Tras tras SP 
+9 9 Z 
+a a SP 
+Ã Ã Fz 
+± ± Fz 
+os o NCFP000 06832680-n:0/14648100-n:0
+de de SP 
+seguimiento seguimiento NCMS000 00143251-n:0/00319939-n:0/00652466-n:0
+, , Fc 
+el el DA0MS0 
+paciente paciente NCCS000 10207681-n:0/10405694-n:0
+mantiene mantener VMIP3S0 00077369-v:0/00896017-v:0/00896497-v:0/01016778-v:0/01017643-v:0/01184625-v:0/01773130-v:0/02202384-v:0/02204094-v:0/02280132-v:0/02283608-v:0/02578872-v:0/02651853-v:0/02679899-v:0/02681795-v:0
+una uno DI0FS0 
+funci funci NCMS000 
+Ã Ã Fz 
+³ ³ Fz 
+n n NCFS000 06832572-n:0
+renal renal AQ0CS00 02883599-a:0
+aceptable aceptable AQ0CS00 00017782-a:0/01020709-a:0/01124768-a:0/01761871-a:0/02080937-a:0/02297966-a:0/02336338-a:0
+( ( Fpa 
+Creatinina creatinina NP00000 
+s segundo NCMN000 00723783-n:0/10300041-n:0/13611395-n:0/13846546-n:0/15235126-n:0/15245382-n:0/15246353-n:0/15246853-n:0/15247110-n:0
+Ã Ã Fz 
+© © Fz 
+rica rico NCFS000 10292052-n:0/10529231-n:0
+2.1_mg WG_mg:2.1 Zu 
+/ / Fh 
+dl decilitro NCMN000 13624026-n:0
+) ) Fpt 
+y y CC 
+es ser VSIP3S0 02445925-v:0/02603699-v:0/02604760-v:0/02616386-v:0/02620587-v:0/02664769-v:0/02745332-v:0/02749904-v:0
+controlado controlar VMP00SM 00202569-v:0/00234857-v:0/00597385-v:0/00662589-v:0/00663160-v:0/00697062-v:0/00746366-v:0/01224744-v:0/01803936-v:0/02163301-v:0/02441022-v:0/02443049-v:0/02454939-v:0/02510337-v:0/02520997-v:0/02533282-v:0/02646931-v:0/00598679-a:0
+por por SP 
+HBP hbp NP00000 
+sintom sintom NCMS000 
+Ã Ã Fz 
+¡ ¡ Fz 
+tica tica AQ0FS00 
+. . Fp 
+
++grup-verb_[
+  grup-sp_[
+    +prep_[
+      +(Tras tras SP)
+    ]
+    numero_[
+      +(9 9 Z)
+    ]
+    prep_[
+      +(a a SP)
+    ]
+    F-no-c_[
+      +(Ã Ã Fz)
+    ]
+    F-no-c_[
+      +(± ± Fz)
+    ]
+  ]
+  sn_[
+    +grup-nom-fp_[
+      +n-fp_[
+        +(os o NCFP000)
+      ]
+    ]
+    sp-de_[
+      +(de de SP)
+      sn_[
+        +grup-nom-ms_[
+          +n-ms_[
+            +(seguimiento seguimiento NCMS000)
+          ]
+        ]
+      ]
+    ]
+    Fc_[
+      +(, , Fc)
+    ]
+  ]
+  sn_[
+    espec-ms_[
+      +j-ms_[
+        +(el el DA0MS0)
+      ]
+    ]
+    +grup-nom-ms_[
+      +n-ms_[
+        +(paciente paciente NCCS000)
+      ]
+    ]
+  ]
+  +verb_[
+    +(mantiene mantener VMIP3S0)
+  ]
+  espec-fs_[
+    +indef-fs_[
+      +(una uno DI0FS0)
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(funci funci NCMS000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(³ ³ Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(n n NCFS000)
+      ]
+      s-a-fs_[
+        +a-fs_[
+          +(renal renal AQ0CS00)
+        ]
+      ]
+    ]
+    s-adj_[
+      +s-a-ms_[
+        +a-ms_[
+          +(aceptable aceptable AQ0CS00)
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(( ( Fpa)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +w-ms_[
+        +(Creatinina creatinina NP00000)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(s segundo NCMN000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(© © Fz)
+  ]
+  sn_[
+    +grup-nom-fs_[
+      +n-fs_[
+        +(rica rico NCFS000)
+      ]
+    ]
+  ]
+  sn_[
+    +grup-nom_[
+      +(2.1_mg WG_mg:2.1 Zu)
+    ]
+  ]
+  F-no-c_[
+    +(/ / Fh)
+  ]
+  sn_[
+    +grup-nom-ms_[
+      +n-ms_[
+        +(dl decilitro NCMN000)
+      ]
+    ]
+  ]
+  F-no-c_[
+    +() ) Fpt)
+  ]
+  coor-pass_[
+    +(y y CC)
+    verb-pass_[
+      vser_[
+        +(es ser VSIP3S0)
+      ]
+      +parti-flex_[
+        +parti-ms_[
+          +(controlado controlar VMP00SM)
+        ]
+      ]
+      grup-sp_[
+        +prep_[
+          +(por por SP)
+        ]
+        sn_[
+          +grup-nom-ms_[
+            +w-ms_[
+              +(HBP hbp NP00000)
+            ]
+          ]
+        ]
+      ]
+      sn_[
+        +grup-nom-ms_[
+          +n-ms_[
+            +(sintom sintom NCMS000)
+          ]
+        ]
+      ]
+    ]
+  ]
+  F-no-c_[
+    +(Ã Ã Fz)
+  ]
+  F-no-c_[
+    +(¡ ¡ Fz)
+  ]
+  s-adj_[
+    +s-a-fs_[
+      +a-fs_[
+        +(tica tica AQ0FS00)
+      ]
+    ]
+  ]
+  F-term_[
+    +(. . Fp)
+  ]
+]
+grup-verb/top/(mantiene mantener VMIP3S0) [
+  grup-sp/adjt/(Tras tras SP) [
+    numero/comp/(9 9 Z)
+    prep/modnomatch/(a a SP)
+    F-no-c/punc/(Ã Ã Fz)
+    F-no-c/punc/(± ± Fz)
+  ]
+  sn/subj/(os o NCFP000) [
+    sp-de/mod/(de de SP) [
+      sn/comp/(seguimiento seguimiento NCMS000)
+    ]
+    Fc/punc/(, , Fc)
+  ]
+  sn/modnomatch/(paciente paciente NCCS000) [
+    espec-ms/spec/(el el DA0MS0)
+  ]
+  espec-fs/modnomatch/(una uno DI0FS0)
+  sn/dobj/(funci funci NCMS000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(³ ³ Fz)
+  sn/modnomatch/(n n NCFS000) [
+    s-a-fs/mod/(renal renal AQ0CS00)
+    s-adj/mod/(aceptable aceptable AQ0CS00)
+  ]
+  F-no-c/punc/(( ( Fpa)
+  sn/modnomatch/(Creatinina creatinina NP00000)
+  sn/modnomatch/(s segundo NCMN000)
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(© © Fz)
+  sn/modnomatch/(rica rico NCFS000)
+  sn/modnomatch/(2.1_mg WG_mg:2.1 Zu)
+  F-no-c/punc/(/ / Fh)
+  sn/modnomatch/(dl decilitro NCMN000)
+  F-no-c/punc/() ) Fpt)
+  coor-pass/modnomatch/(y y CC) [
+    verb-pass/coor/(controlado controlar VMP00SM) [
+      vser/aux/(es ser VSIP3S0)
+      grup-sp/agnt/(por por SP) [
+        sn/comp/(HBP hbp NP00000)
+      ]
+      sn/subj/(sintom sintom NCMS000)
+    ]
+  ]
+  F-no-c/punc/(Ã Ã Fz)
+  F-no-c/punc/(¡ ¡ Fz)
+  s-adj/pred/(tica tica AQ0FS00)
+  F-term/punc/(. . Fp)
+]

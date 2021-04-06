@@ -1,0 +1,143 @@
+elasticsearch | ERROR: [1] bootstrap checks failed
+elasticsearch | [1]: max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+elasticsearch | ERROR: Elasticsearch did not exit normally - check the logs at /usr/share/elasticsearch/logs/snowstorm-cluster.log
+
+Solución:
+→ C:\Users\Usuario› wsl -d docker-desktop
+PC-984530:/tmp/docker-desktop-root/mnt/host/c/Users/Usuario# sysctl -w vm.max_map_count=262144
+vm.max_map_count = 262144
+PC-984530:/tmp/docker-desktop-root/mnt/host/c/Users/Usuario# echo "vm.max_map_count = 262144" > /etc/sysctl.d/99-docker-desktop.conf
+
+-------------------------------
+docker-compose up -d
+-------------------------------
+CREAR TRABAJO DE IMPORTACION SNOMEDCT:
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{
+  "branchPath": "MAIN",
+  "createCodeSystemVersion": true,
+  "type": "SNAPSHOT"
+}' 'http://localhost:8080/imports'
+o
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{\"branchPath\": \"MAIN\", \"createCodeSystemVersion\": true, \"type\": \"SNAPSHOT\"}' 'http://localhost:8080/imports'
+
+RESPONSE CON ID DE TRABAJO:
+{
+  "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+  "connection": "keep-alive",
+  "content-length": "0",
+  "date": "Sun, 07 Mar 2021 19:41:43 GMT",
+  "expires": "0",
+  "keep-alive": "timeout=60",
+  "location": "http://localhost:8080/imports/4c8823bc-0bda-42dd-93fe-244435464b8d",
+  "pragma": "no-cache",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "DENY",
+  "x-xss-protection": "1; mode=block",
+  "content-type": null
+}
+
+SUBIR FICHERO SNOMEDCT:
+curl -X POST --header 'Content-Type: multipart/form-data' --header 'Accept: application/json' -F file=@SnomedCT_InternationalRF2_PRODUCTION_20210131T120000Z.zip 'http://localhost:8080/imports/4c8823bc-0bda-42dd-93fe-244435464b8d/archive'
+
+CONSULTAR ESTADO DEL TRABAJO:
+curl -X GET --header 'Accept: application/json' 'http://localhost:8080/imports/4c8823bc-0bda-42dd-93fe-244435464b8d'
+
+CREAR TRABAJO DE IMPORTACION SNOMEDCT-ES:
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{
+  "branchPath": "MAIN/SNOMEDCT-ES",
+  "createCodeSystemVersion": true,
+  "type": "SNAPSHOT"
+}' 'http://localhost:8080/imports'
+
+o
+
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' -d '{
+  "shortName": "SNOMEDCT-ES",
+  "branchPath": "MAIN/SNOMEDCT-ES",
+  "dependantVersion": 20201031  
+}' 'http://localhost:8080/imports'
+
+RESPONSE CON ID DE TRABAJO:
+{
+  "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+  "connection": "keep-alive",
+  "content-length": "0",
+  "date": "Sun, 07 Mar 2021 18:58:13 GMT",
+  "expires": "0",
+  "keep-alive": "timeout=60",
+  "location": "http://localhost:8080/imports/096b6498-5c55-470b-8d7a-b99603b5ab01",
+  "pragma": "no-cache",
+  "x-content-type-options": "nosniff",
+  "x-frame-options": "DENY",
+  "x-xss-protection": "1; mode=block",
+  "content-type": null
+}
+
+SUBIR FICHERO SNOMEDCT-ES:
+curl -X POST --header 'Content-Type: multipart/form-data' --header 'Accept: application/json' -F file=@SnomedCT_SpanishRelease-es_PRODUCTION_20201031T120000Z.zip 'http://localhost:8080/imports/096b6498-5c55-470b-8d7a-b99603b5ab01/archive'
+
+CONSULTAR ESTADO DEL TRABAJO:
+curl -X GET --header 'Accept: application/json' 'http://localhost:8080/imports/096b6498-5c55-470b-8d7a-b99603b5ab01'
+-------------------------------
+
+→ C:\Users\Usuario› curl -X GET --header 'Accept: application/json' --header 'Accept-Language: es,en-X-900000000000509007,en-X-900000000000508004,en' 'http://localhost:8080/multisearch/descriptions?term=colesterol&contentScope=ALL_PUBLISHED_CONTENT&offset=0&limit=50'
+{
+  "items" : [ {
+    "term" : "colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "84698008",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol",
+        "lang" : "es"
+      },
+      "id" : "84698008"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol LDI",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "259569005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de las lipoproteínas de densidad intermedia (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol de las lipoproteínas de densidad intermedia",
+        "lang" : "es"
+      },
+      "id" : "259569005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol HDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "102737005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+	  
+------------------------------- 
+docker builder prune

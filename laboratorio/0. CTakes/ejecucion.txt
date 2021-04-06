@@ -1,0 +1,45 @@
+export ctakes_umlsuser=myusername
+export ctakes_umlspw=mypassword
+
+export CTAKES_HOME=/usr/local/apache-ctakes-4.0.0
+export UMLS_USERNAME=myusername
+export UMLS_PASSWORD=mypassword
+
+java -cp $CTAKES_HOME:$CTAKES_HOME/lib/*:$CTAKES_HOME/desc/:$CTAKES_HOME/resources/ \
+	-Dlog4j.configuration=file:$CTAKES_HOME/config/log4j.xml \
+	-Dctakes.umlsuser=$UMLS_USERNAME -Dctakes.umlspw=$UMLS_PASSWORD \
+	-Xms512M -Xmx1024M \
+	CmdLineCpeRunner FilesToXmi.xml
+
+
+------------------------------------------------------------------------------------------------
+https://stackoverflow.com/questions/32939527/how-to-use-ctakes-from-the-command-line/32983401
+
+
+java -Dctakes.umlsuser=USER -Dctakes.umlspw=PW -cp $CTAKES_HOME/lib/*;$CTAKES_HOME/desc/;$CTAKES_HOME/resources‌​/ -
+ Dlog4j.configuration=file:$CTAKES_HOME/config/log4j.xml -Xms2g -Xmx3g to_replace $CTAKES_HOME/desc/ctakes-clinical-pipeline/desc/collection_p‌​rocessing_engine/tes‌​t_plaintext_test.xml
+
+replace "to_replace" with either
+
+org.apache.ctakes.ytex.tools.RunCPE or 
+org.apache.ctakes.core.cpe.CmdLineCpeRunner
+------------------------------------------------------------------------------------------------
+
+FUNCIONA:
+java -cp $CTAKES_HOME:$CTAKES_HOME/lib/*:$CTAKES_HOME/desc/:$CTAKES_HOME/resources/ \
+	-Dlog4j.configuration=file:$CTAKES_HOME/config/log4j.xml \
+	-Dctakes.umlsuser=$UMLS_USERNAME -Dctakes.umlspw=$UMLS_PASSWORD \
+	-Xms512M -Xmx1024M \
+	org.apache.ctakes.core.cpe.CmdLineCpeRunner \
+	$CTAKES_HOME/desc/ctakes-clinical-pipeline/desc/collection_processing_engine/test_plaintext.xml
+
+java -cp $CTAKES_HOME:$CTAKES_HOME/lib/*:$CTAKES_HOME/desc/:$CTAKES_HOME/resources/ \
+	-Dlog4j.configuration=file:$CTAKES_HOME/config/log4j.xml \
+	-Dctakes.umlsuser=$UMLS_USERNAME -Dctakes.umlspw=$UMLS_PASSWORD \
+	-Xms512M -Xmx1024M \
+	org.apache.ctakes.ytex.tools.RunCPE \
+	$CTAKES_HOME/desc/ctakes-clinical-pipeline/desc/collection_processing_engine/test_plaintext.xml
+
+
+
+

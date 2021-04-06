@@ -1,6 +1,0 @@
-[submodule "snowstorm"]
-	path = snowstorm
-	url = https://github.com/IHTSDO/snowstorm.git
-[submodule "SPACCC_POS-TAGGER"]
-	path = SPACCC_POS-TAGGER
-	url = https://github.com/PlanTL-SANIDAD/SPACCC_POS-TAGGER.git

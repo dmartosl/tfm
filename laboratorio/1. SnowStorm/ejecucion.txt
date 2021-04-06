@@ -1,0 +1,6 @@
+https://github.com/IHTSDO/snowstorm
+
+Ejecucion en Docker:
+  $ cd snowstorm
+  $ docker-compose up -d
+  $ curl -X GET --header 'Accept: application/json' --header 'Accept-Language: es,en-X-900000000000509007,en-X-900000000000508004,en' 'http://localhost:8080/multisearch/descriptions?term=colesterol&contentScope=ALL_PUBLISHED_CONTENT&offset=0&limit=50'

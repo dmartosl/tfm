@@ -1,0 +1,292 @@
+S0004-06142005000400011-2.txt|MMI|13.81|X-Ray Computed Tomography|C0040405|[diap]|"CAT"-text-0-"CAT"-NN-0|text|1407/3|E01.370.350.700.700.810;E01.370.350.350.810;E01.370.350.700.810.810;E01.370.350.600.350.700.810;E01.370.350.825.810.810|
+S0004-06142005000400011-2.txt|MMI|7.37|Ultrasonography|C0041618|[diap]|"Ultrasound"-text-0-"ultrasound"-JJ-0,"Ultrasound"-text-0-"ultrasound"-NN-0|text|177/10;459/10|E01.370.350.850;x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|7.37|Lymphocyte|C0024264|[cell]|"Lymphocytes"-text-45-"lymphocytes"-NNS-0|text|1984/11|A11.118.637.555.567;A15.145.229.637.555.567;A15.382.490.555.567|
+S0004-06142005000400011-2.txt|MMI|6.45|Actinomyces|C0001250|[bact]|"Actinomyces"-text-70-"Actinomyces"-NNP-0|text|2060/11|B03.510.460.400.400.049.049.178;B03.510.024.049.050.050|
+S0004-06142005000400011-2.txt|MMI|5.99|Hematuria|C0018965|[dsyn]|"Hematuria"-text-0-"hematuria"-NN-0|text|135/9|C23.550.414.849;C13.351.968.934.442;C12.777.934.442|
+S0004-06142005000400011-2.txt|MMI|5.99|Urine|C0042036|[bdsu]|"Urine"-text-6-"urine"-JJ-0|text|158/5|A12.207.927;Y01.040;Y08.040.070;Y01.040;Y08.040.070|
+S0004-06142005000400011-2.txt|MMI|5.53|Benign prostatic hypertrophy|C0005001|[patf]|"benign prostate hypertrophy"-text-8-"benign prostate hypertrophy"-JJ-0,"BPH"-text-0-"BPH"-NNP-0,"BPH"-text-37-"BPH"-NNP-0|text|53/27;889/3;2214/3|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|5.53|Pain|C0030193|[sosy]|"Painful"-text-12-"painful"-JJ-1|text|758/7|G11.561.790.444;F02.830.816.444;C23.888.592.612|
+S0004-06142005000400011-2.txt|MMI|5.06|Felis catus|C0007450|[mamm]|"Cat"-text-0-"CAT"-NN-0|text|1407/3|B01.050.150.900.649.313.750.377.750.250.125|
+S0004-06142005000400011-2.txt|MMI|5.06|Homo sapiens|C0086418|[humn]|"Man"-text-0-"man"-NN-0|text|12/3|B01.050.150.900.649.313.988.400.112.400.400|
+S0004-06142005000400011-2.txt|MMI|4.60|Cytology|C0010819|[bmod]|"Cytology"-text-0-"CYTOLOGY"-NNP-0|text|1063/8|H01.158.273.160;H01.158.100.433;Y02.020|
+S0004-06142005000400011-2.txt|MMI|4.60|Hypertrophic Cardiomyopathy|C0007194|[dsyn]|"Hypertrophic Cardiomyopathy"-text-0-"Hypertrophic cardiomyopathy"-NNP-0|text|596/27|C14.280.484.150.070.160;C14.280.238.100|
+S0004-06142005000400011-2.txt|MMI|4.14|Ureter|C0041951|[bpoc]|"Ureter"-text-15-"ureter"-NN-0,"Ureteric"-text-10-"ureteric"-JJ-0,"Ureteral"-text-27-"ureteral"-NN-0|text|1225/6;1639/8;1922/8|A05.810.776|
+S0004-06142005000400011-2.txt|MMI|4.14|Cytological Techniques|C0010818|[lbpr]|"Cytology"-text-0-"CYTOLOGY"-NNP-0|text|1063/8|E05.242;E01.370.225.500;E05.200.500|
+S0004-06142005000400011-2.txt|MMI|3.68|Benign Prostatic Hyperplasia|C1704272|[dsyn]|"BPH"-text-0-"BPH"-NNP-0,"BPH"-text-37-"BPH"-NNP-0|text|889/3;2214/3|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|3.68|Ultrasonic|C0220934|[ftcn]|"ultrasound"-text-0-"ultrasound"-JJ-0,"ultrasound"-text-0-"ultrasound"-NN-0|text|177/10;459/10|H01.671.031.849|
+S0004-06142005000400011-2.txt|MMI|3.68|Ultrasonic Shockwave|C0041621|[npop]|"ultrasound"-text-0-"ultrasound"-JJ-0,"ultrasound"-text-0-"ultrasound"-NN-0|text|177/10;459/10|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|3.68|Aortic Aneurysm|C0003486|[dsyn]|"Aortic Aneurysm"-text-0-"Aortic aneurysm"-NNP-0|text|1423/15|C14.907.055.239;C14.907.109.139|
+S0004-06142005000400011-2.txt|MMI|3.68|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|"type ii diabetes mellitus"-text-0-"Type II diabetes mellitus"-NNP-0|text|569/25|C18.452.394.750.149;C19.246.300|
+S0004-06142005000400011-2.txt|MMI|3.68|Postoperative Period|C0032790|[tmco]|"Postoperative"-text-41-"postoperative"-JJ-0|text|1754/13|N02.421.585.753.750;E04.614.750|
+S0004-06142005000400011-2.txt|MMI|2.76|Physical Examination|C0031809|[hlca]|"Physical Examination"-text-0-"physical examination"-JJ-0,"examinations"-text-0-"EXAMINATIONS"-NNS-0|text|678/20;933/12|E01.370.600|
+S0004-06142005000400011-2.txt|MMI|2.76|Chloramphenicol O-Acetyltransferase|C0008169|[enzy, aapp]|"cat"-text-0-"CAT"-NN-0|text|1407/3|D08.811.913.050.134.170|
+S0004-06142005000400011-2.txt|MMI|2.30|Carcinoma, Transitional Cell|C0007138|[neop]|"Transitional cell carcinoma"-text-3-"transitional cell carcinoma"-JJ-0|text|1099/27|C04.557.470.200.430|
+S0004-06142005000400011-2.txt|MMI|2.30|Nephroureterectomy|C0027732|[topp]|"Nephroureterectomy"-text-33-"nephroureterectomy"-NN-0|text|1715/18|E04.950.774.435.500|
+S0004-06142005000400011-2.txt|MMI|2.30|Pathology|C0030664|[bmod]|"Pathological"-text-0-"pathological"-JJ-0|text|834/12|H02.403.650;Y02.050|
+S0004-06142005000400011-2.txt|MMI|2.30|creatinine|C0010294|[bacs, orch]|"creatinine"-text-15-"Creatinine"-NNP-0|text|994/10|D03.383.129.308.207|
+S0004-06142005000400011-2.txt|MMI|2.30|glucose|C0017725|[bacs, orch, phsu]|"glucose"-text-4-"Glucose"-NNP-0|text|973/7|D09.947.875.359.448|
+S0004-06142005000400011-2.txt|MMI|1.84|Right|C0205090|[spco]|"Right"-text-11-"right"-JJ-0,"Right"-text-9-"right"-JJ-0,"Right"-text-8-"right"-JJ-0,"Right"-text-29-"right"-RB-0|text|338/5;1207/5;1633/5;1701/5||
+S0004-06142005000400011-2.txt|MMI|1.84|Right kidney|C0227613|[bpoc]|"Right kidney"-text-6-"right kidney"-JJ-0,"Right kidney"-text-0-"right kidney"-JJ-0,"Right kidney"-text-0-"RIGHT KIDNEY"-JJ-0,"Right kidney"-text-0-"right kidney"-JJ-0|text|240/12;296/12;1331/12;1470/12||
+S0004-06142005000400011-2.txt|MMI|1.84|Right sided|C0444532|[spco]|"Right"-text-11-"right"-JJ-0,"Right"-text-9-"right"-JJ-0,"Right"-text-8-"right"-JJ-0,"Right"-text-29-"right"-RB-0|text|338/5;1207/5;1633/5;1701/5||
+S0004-06142005000400011-2.txt|MMI|1.84|Table Cell Horizontal Align - right|C1552823|[ftcn]|"right"-text-11-"right"-JJ-0,"right"-text-9-"right"-JJ-0,"right"-text-8-"right"-JJ-0,"right"-text-29-"right"-RB-0|text|338/5;1207/5;1633/5;1701/5||
+S0004-06142005000400011-2.txt|MMI|1.84|Without|C0332288|[qlco]|"Without"-text-10-"without"-IN-0,"Without"-text-0-"without"-IN-0,"Without"-text-0-"without"-IN-0,"Without"-text-0-"without"-IN-0|text|481/7;656/7;826/7;1484/7||
+S0004-06142005000400011-2.txt|MMI|1.84|Patients|C0030705|[podg]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7|M01.643|
+S0004-06142005000400011-2.txt|MMI|1.84|Abdominal Cavity|C0230168|[blor]|"Abdomen"-text-7-"abdomen"-NN-0|text|745/7|A01.923.047.025|
+S0004-06142005000400011-2.txt|MMI|1.84|Arteriosclerosis|C0003850|[dsyn]|"Arteriosclerosis"-text-14-"arteriosclerosis"-NN-0|text|1877/16|C14.907.137.126|
+S0004-06142005000400011-2.txt|MMI|1.84|Biological Evolution|C0015219|[genf]|"Evolution"-text-43-"evolution"-NN-0|text|1768/9|G05.045;G16.075|
+S0004-06142005000400011-2.txt|MMI|1.84|Hypertrophic obstructive cardiomyopathy|C4551472|[dsyn]|"Hypertrophic cardiomyopathy"-text-0-"Hypertrophic cardiomyopathy"-NNP-0|text|596/27|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|1.84|Males|C0086582|[orga]|"man"-text-0-"man"-NN-0|text|12/3|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|1.84|Muscle Tissue|C0026845|[tisu]|"Muscle"-text-49-"muscle"-NN-0|text|1999/6|A02.633;A10.690|
+S0004-06142005000400011-2.txt|MMI|1.84|Normality|C0949333|[qlco]|"Normality"-text-0-"normality"-NN-0|text|1044/9|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|1.84|Opinions|C0871010|[idcn]|"opinion"-text-0-"opinion"-NN-0|text|1801/7|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|1.84|Pyelography|C0034185|[diap]|"Pyelography"-text-0-"PYELOGRAPHY"-NNP-0|text|1139/11|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|1.84|Rest|C0035253|[dora]|"Rest"-text-0-"Rest"-NNP-0|text|1018/4|I03.450.769.647|
+S0004-06142005000400011-2.txt|MMI|1.84|Self|C0036588|[idcn]|"Self"-text-0-"self"-NN-0|text|106/4|x.x.x.x|
+S0004-06142005000400011-2.txt|MMI|1.84|Vulva|C0042993|[bpoc]|"External Genitalia"-text-0-"External genitalia"-JJ-0|text|807/18|A05.360.319.887|
+S0004-06142005000400011-2.txt|MMI|1.38|In addition to|C0332287|[ftcn]|"With"-text-30-"with"-IN-0,"With"-text-35-"with"-IN-0,"With"-text-39-"with"-IN-0|text|1266/4;1734/4;1965/4||
+S0004-06142005000400011-2.txt|MMI|1.38|With - dosing instruction fragment|C1705690|[inpr]|"With"-text-30-"with"-IN-0,"With"-text-35-"with"-IN-0,"With"-text-39-"with"-IN-0|text|1266/4;1734/4;1965/4||
+S0004-06142005000400011-2.txt|MMI|1.38|Abdomen|C0000726|[blor]|"Abdomen"-text-7-"abdomen"-NN-0|text|745/7|A01.923.047|
+S0004-06142005000400011-2.txt|MMI|1.38|Ambulatory Care Facilities|C0002424|[mnob, hcro]|"Outpatient Clinics"-text-0-"Outpatient Clinics"-NNP-0|text|30/18|N02.278.035|
+S0004-06142005000400011-2.txt|MMI|1.38|Aneurysm|C0002940|[patf]|"Aneurysm"-text-0-"aneurysm"-RB-0|text|647/8|C14.907.055|
+S0004-06142005000400011-2.txt|MMI|1.38|Kidney|C0022646|[bpoc]|"Renal"-text-24-"renal"-JJ-0|text|793/5|A05.810.453|
+S0004-06142005000400011-2.txt|MMI|1.38|Lymphadenopathy|C0497156|[dsyn]|"Lymphadenopathy"-text-0-"lymphadenopathy"-NN-0|text|1559/15|C15.604.338|
+S0004-06142005000400011-2.txt|MMI|1.38|Pelvis|C0030797|[bpoc]|"Pelvic"-text-0-"PELVIC"-NN-0|text|1400/6|A01.923.600|
+S0004-06142005000400011-2.txt|MMI|1.38|Urothelium|C0227598|[tisu]|"Urothelium"-text-60-"urothelium"-NN-0|text|2029/10|A10.272.850|
+S0004-06142005000400011-2.txt|MMI|0.92|Aspects of signs|C0220912|[ftcn]|"signs"-text-0-"signs"-NNS-1,"signs"-text-32-"signs"-NNS-0|text|847/5;1271/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Cellular infiltrate|C1692321|[patf]|"Infiltration"-text-36-"infiltration"-NN-0,"INFILTRATE"-text-41-"infiltrate"-NN-0|text|1280/12;1970/10||
+S0004-06142005000400011-2.txt|MMI|0.92|Clinical Research|C0008972|[resa]|"Study"-text-0-"study"-NN-0,"Study"-text-0-"STUDY"-NNP-0|text|188/5;1318/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Compatible|C1524057|[qlco]|"Compatible with"-text-0-"compatible with"-JJ-0,"Compatible with"-text-0-"Compatible with"-JJ-0|text|873/15;1073/15||
+S0004-06142005000400011-2.txt|MMI|0.92|Consistent with|C0332290|[idcn]|"compatible with"-text-0-"compatible with"-JJ-0,"compatible with"-text-0-"Compatible with"-JJ-0|text|873/15;1073/15||
+S0004-06142005000400011-2.txt|MMI|0.92|DICOM Study|C1880229|[resa]|"Study"-text-0-"study"-NN-0,"Study"-text-0-"STUDY"-NNP-0|text|188/5;1318/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Disabled Person Code - Patient|C1578486|[inpr]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7||
+S0004-06142005000400011-2.txt|MMI|0.92|Facilitated oscillatory release technique|C1562169|[topp]|"FOR"-text-2-"for"-IN-0,"FOR"-text-33-"for"-IN-0|text|49/3;2198/3||
+S0004-06142005000400011-2.txt|MMI|0.92|Function (attribute)|C0542341|[ftcn]|"Functional"-text-0-"Functional"-JJ-0,"Functional"-text-0-"FUNCTIONAL"-NNP-0|text|265/10;1307/10||
+S0004-06142005000400011-2.txt|MMI|0.92|Functional|C0205245|[ftcn]|"Functional"-text-0-"Functional"-JJ-0,"Functional"-text-0-"FUNCTIONAL"-NNP-0|text|265/10;1307/10||
+S0004-06142005000400011-2.txt|MMI|0.92|Functional Relationship|C2700217|[cnce]|"Functional"-text-0-"Functional"-JJ-0,"Functional"-text-0-"FUNCTIONAL"-NNP-0|text|265/10;1307/10||
+S0004-06142005000400011-2.txt|MMI|0.92|Infiltration|C0332448|[patf]|"Infiltration"-text-36-"infiltration"-NN-0,"Infiltrate"-text-41-"infiltrate"-NN-0|text|1280/12;1970/10||
+S0004-06142005000400011-2.txt|MMI|0.92|Mail Claim Party - Patient|C1578481|[idcn]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7||
+S0004-06142005000400011-2.txt|MMI|0.92|Manufactured sign|C0220913|[mnob]|"signs"-text-0-"signs"-NNS-1,"signs"-text-32-"signs"-NNS-0|text|847/5;1271/5||
+S0004-06142005000400011-2.txt|MMI|0.92|NR4A2 gene|C1417836|[gngm]|"NOT"-text-10-"not"-RB-0,"NOT"-text-15-"not"-RB-0|text|754/3;767/3||
+S0004-06142005000400011-2.txt|MMI|0.92|Negation|C1518422|[ftcn]|"Not"-text-10-"not"-RB-0,"Not"-text-15-"not"-RB-0|text|754/3;767/3||
+S0004-06142005000400011-2.txt|MMI|0.92|Physical findings|C0311392|[fndg]|"SIGNS"-text-0-"signs"-NNS-1,"SIGNS"-text-32-"signs"-NNS-0|text|847/5;1271/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Preposition For|C0521125|[qlco]|"For"-text-2-"for"-IN-0,"For"-text-33-"for"-IN-0|text|49/3;2198/3||
+S0004-06142005000400011-2.txt|MMI|0.92|Relationship modifier - Patient|C1578484|[idcn]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7||
+S0004-06142005000400011-2.txt|MMI|0.92|Report source - Patient|C1578483|[idcn]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7||
+S0004-06142005000400011-2.txt|MMI|0.92|Room of building - Study|C0557651|[mnob]|"Study"-text-0-"study"-NN-0,"Study"-text-0-"STUDY"-NNP-0|text|188/5;1318/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Scientific Study|C0947630|[lbpr]|"Study"-text-0-"study"-NN-0,"Study"-text-0-"STUDY"-NNP-0|text|188/5;1318/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Specimen Source Codes - Patient|C1578485|[inpr]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7||
+S0004-06142005000400011-2.txt|MMI|0.92|Specimen Type - Patient|C1550655|[bdsu]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7||
+S0004-06142005000400011-2.txt|MMI|0.92|Study|C2603343|[resa]|"Study"-text-0-"study"-NN-0,"Study"-text-0-"STUDY"-NNP-0|text|188/5;1318/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Study Object|C1705923|[cnce]|"Study"-text-0-"study"-NN-0,"Study"-text-0-"STUDY"-NNP-0|text|188/5;1318/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Ultrasonics (sound)|C1456803|[npop]|"Ultrasound"-text-0-"ultrasound"-JJ-0,"Ultrasound"-text-0-"ultrasound"-NN-0|text|177/10;459/10||
+S0004-06142005000400011-2.txt|MMI|0.92|Ureteral Route of Drug Administration|C1522613|[ftcn]|"URETER"-text-15-"ureter"-NN-0,"Ureteral"-text-27-"ureteral"-NN-0|text|1225/6;1922/8||
+S0004-06142005000400011-2.txt|MMI|0.92|Veterinary Patient|C1705908|[orgm]|"Patient"-text-17-"patient"-NN-0,"Patient"-text-1-"patient"-NN-0|text|1659/7;2105/7||
+S0004-06142005000400011-2.txt|MMI|0.92|WWOX gene|C1421525|[gngm]|"FOR"-text-2-"for"-IN-0,"FOR"-text-33-"for"-IN-0|text|49/3;2198/3||
+S0004-06142005000400011-2.txt|MMI|0.92|WWOX wt Allele|C4321252|[gngm]|"FOR"-text-2-"for"-IN-0,"FOR"-text-33-"for"-IN-0|text|49/3;2198/3||
+S0004-06142005000400011-2.txt|MMI|0.92|ultrasound device|C1875843|[medd]|"ULTRASOUND"-text-0-"ultrasound"-JJ-0,"ULTRASOUND"-text-0-"ultrasound"-NN-0|text|177/10;459/10||
+S0004-06142005000400011-2.txt|MMI|0.92|year|C0439234|[tmco]|"year"-text-0-"year"-NN-0,"years"-text-0-"years"-NNS-0|text|3/4;2081/5||
+S0004-06142005000400011-2.txt|MMI|0.92|Hypersensitivity|C0020517|[patf]|"Allergies"-text-0-"allergies"-NNS-1|text|553/9|C20.543|
+S0004-06142005000400011-2.txt|MMI|0.92|Signs and Symptoms|C0037088|[sosy]|"Finding"-text-30-"finding"-NN-0|text|413/7|C23.888|
+S0004-06142005000400011-2.txt|MMI|0.92|Urinary tract|C0042027|[bpoc]|"Urinary"-text-0-"URINARY"-NNP-0|text|1055/7|A05.810|
+S0004-06142005000400011-2.txt|MMI|0.46|1.4 (qualifier value)|C4517503|[qnco]|"1.4"-text-19-"1.4"-CD-0|text|1005/3||
+S0004-06142005000400011-2.txt|MMI|0.46|145|C4517577|[qnco]|"145"-text-6-"145"-CD-0|text|981/3||
+S0004-06142005000400011-2.txt|MMI|0.46|2.1|C4068876|[qnco]|"2.1"-text-18-"2.1"-CD-0|text|2167/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Abdominopelvic structure|C1508499|[blor]|"Abdomen"-text-7-"abdomen"-NN-0|text|745/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Acceptable|C1879533|[qlco]|"Acceptable"-text-5-"acceptable"-JJ-0|text|2123/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Acceptable (foundation metadata concept)|C3539083|[qlco]|"Acceptable"-text-5-"acceptable"-JJ-0|text|2123/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Acinonychinae|C1270185|[mamm]|"Cat"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Act Relationship Checkpoint - through|C1550549|[inpr]|"through"-text-0-"through"-IN-0|text|1151/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Administration Method - Infiltrate|C1549537|[ftcn]|"Infiltrate"-text-41-"infiltrate"-NN-0|text|1970/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Analysis|C0936012|[resa]|"Analysis"-text-1-"ANALYSIS"-NNP-0|text|963/8|Y01|
+S0004-06142005000400011-2.txt|MMI|0.46|Analysis of substances|C0002778|[lbpr]|"Analysis"-text-1-"ANALYSIS"-NNP-0|text|963/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Anthropological Culture|C0010453|[idcn]|"Cultures"-text-8-"cultures"-NNS-0|text|164/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Aortic aneurysm without mention of rupture NOS|C0340629|[dsyn]|"Aortic Aneurysm"-text-0-"Aortic aneurysm"-NNP-0|text|1423/15||
+S0004-06142005000400011-2.txt|MMI|0.46|Approximate|C0332232|[qlco]|"Approximately"-text-19-"approximately"-RB-0|text|1235/13||
+S0004-06142005000400011-2.txt|MMI|0.46|Atrophic|C0333641|[patf]|"Atrophy"-text-0-"atrophy"-NN-0|text|1455/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Before|C0332152|[tmco]|"Before"-text-0-"before"-IN-0|text|435/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Before - dosing instruction fragment|C1705850|[inpr]|"Before"-text-0-"before"-IN-0|text|435/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Biospecimen|C2347026|[bdsu]|"Specimen"-text-0-"specimen"-NNS-0|text|1816/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Bone structure of ilium|C0020889|[bpoc]|"Iliac"-text-13-"iliac"-JJ-0|text|1219/5||
+S0004-06142005000400011-2.txt|MMI|0.46|CAT gene|C1413138|[gngm]|"CAT"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|CDISC Findings Class|C3539655|[inpr]|"FINDINGS"-text-0-"findings"-NNS-0|text|1588/8||
+S0004-06142005000400011-2.txt|MMI|0.46|CDISC SDTM Model Version 1.4|C5202883|[inpr]|"1.4"-text-19-"1.4"-CD-0|text|1005/3||
+S0004-06142005000400011-2.txt|MMI|0.46|CDISC SEND Biospecimens Terminology|C2698634|[inpr]|"Specimen"-text-0-"specimen"-NNS-0|text|1816/8||
+S0004-06142005000400011-2.txt|MMI|0.46|COPD Assessment Test Questionnaire|C4284282|[inpr]|"CAT"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Cat (organism)|C3665481|[mamm]|"Cat"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Cat hair antigen|C1443200|[imft, aapp]|"Cat"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Catalan language|C0007366|[lang]|"CAT"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Categories|C0683312|[inpr]|"CAT"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Cellular aspects of|C0010820|[qlco]|"cytology"-text-0-"CYTOLOGY"-NNP-0|text|1063/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Changed status|C0443172|[qnco]|"changes"-text-10-"changes"-NNS-0|text|1866/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Changing|C0392747|[ftcn]|"changes"-text-10-"changes"-NNS-0|text|1866/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Chloramphenicol Acetyl Transferase Gene|C1366498|[gngm]|"cat"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Chronic pyelonephritis|C0085697|[dsyn]|"Chronic pyelonephritis"-text-6-"chronic pyelonephritis"-JJ-0|text|1839/22||
+S0004-06142005000400011-2.txt|MMI|0.46|Clavien-Dindo Grade I|C4049998|[inpr]|"Grade I"-text-0-"grade I"-NN-0|text|893/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Clavien-Dindo Grade II|C4049999|[inpr]|"Grade II"-text-0-"grade II"-NN-0|text|200/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Consent Type - Percutaneous Nephrostomy|C1548897|[hlca]|"Percutaneous Nephrostomy"-text-15-"percutaneous nephrostomy"-JJ-0|text|344/24||
+S0004-06142005000400011-2.txt|MMI|0.46|Creatinine clearance|C0812399|[biof]|"Creatinine clearance"-text-1-"Creatinine clearance"-NNP-0|text|1345/20||
+S0004-06142005000400011-2.txt|MMI|0.46|Creatinine clearance measurement|C0373595|[lbpr]|"Creatinine Clearance"-text-1-"Creatinine clearance"-NNP-0|text|1345/20||
+S0004-06142005000400011-2.txt|MMI|0.46|Creatinine measurement|C0201975|[lbpr]|"Creatinine"-text-15-"Creatinine"-NNP-0|text|994/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Creatinine measurement, serum (procedure)|C0201976|[lbpr]|"Serum creatinine"-text-14-"serum creatinine"-NN-0|text|2150/16||
+S0004-06142005000400011-2.txt|MMI|0.46|Creatinine, CTCAE|C1561535|[fndg]|"Creatinine"-text-15-"Creatinine"-NNP-0|text|994/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Cutaneous Assessment Tool|C4050461|[inpr]|"CAT"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Cytology procedure|C1305671|[lbpr]|"Cytology"-text-0-"CYTOLOGY"-NNP-0|text|1063/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Defect|C1457869|[ftcn]|"Defect"-text-0-"defect"-NN-0|text|1180/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Descending|C0205386|[qlco]|"Descending"-text-0-"DESCENDING"-NN-0|text|1128/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Disease Grade 2|C1522446|[inpr]|"Grade II"-text-0-"grade II"-NN-0|text|200/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Disease classification level|C0456079|[clas]|"Level"-text-3-"level"-NN-0|text|1194/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Disorder of ureter|C0403608|[dsyn]|"ureter"-text-15-"ureter"-NN-0|text|1225/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Disorders of the external female genitalia|C0700039|[dsyn]|"external genitalia"-text-0-"External genitalia"-JJ-0|text|807/18||
+S0004-06142005000400011-2.txt|MMI|0.46|Eight|C0205454|[qnco]|"Eight"-text-0-"Eight"-CD-0|text|422/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Empty (qualifier)|C1880497|[qlco]|"Free"-text-22-"free"-JJ-0|text|788/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Entire abdomen|C1281594|[bpoc]|"Abdomen"-text-7-"abdomen"-NN-0|text|745/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Entire lumen of body system|C1282864|[bsoj]|"Lumen"-text-37-"lumen"-NNS-0|text|1959/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Entire ureter|C1281572|[bpoc]|"Ureter"-text-15-"ureter"-NN-0|text|1225/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Episode of|C0332189|[tmco]|"Episodes"-text-0-"episodes"-NNS-0|text|94/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Erosion lesion|C1959609|[patf]|"Erosion"-text-54-"erosion"-NN-0|text|2014/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Erosion of Medical Device Material|C1880549|[fndg]|"Erosion"-text-54-"erosion"-NN-0|text|2014/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Experimental Finding|C2825141|[fndg]|"Finding"-text-30-"finding"-NN-0|text|413/7||
+S0004-06142005000400011-2.txt|MMI|0.46|External genitalia|C0227605|[bpoc]|"External genitalia"-text-0-"External genitalia"-JJ-0|text|807/18||
+S0004-06142005000400011-2.txt|MMI|0.46|Family Felidae|C0325089|[mamm]|"Cat"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Felis silvestris|C0325090|[mamm]|"Cat"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Finding|C0243095|[fndg]|"Finding"-text-30-"finding"-NN-0|text|413/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Floor - story of building|C1547707|[geoa]|"Level"-text-3-"level"-NN-0|text|1194/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Free (available (qualifier))|C1996904|[qlco]|"Free"-text-22-"free"-JJ-0|text|788/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Free of (attribute)|C0332296|[ftcn]|"free"-text-22-"free"-JJ-0|text|788/4||
+S0004-06142005000400011-2.txt|MMI|0.46|G2 stage (tumor staging)|C0475270|[inpr]|"Grade II"-text-0-"grade II"-NN-0|text|200/8||
+S0004-06142005000400011-2.txt|MMI|0.46|General surgery specialty|C1274039|[bmod]|"Surgery"-text-21-"surgery"-NN-0|text|1677/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Genus Felis|C0524517|[mamm]|"Cat"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Glucose measurement|C0337438|[lbpr]|"Glucose"-text-4-"Glucose"-NNP-0|text|973/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Good|C0205170|[qlco]|"Well"-text-19-"well"-RB-0|text|1898/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Grade|C0441800|[clas]|"Grade"-text-0-"grade"-NN-0|text|1093/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Grade one rank|C0687695|[fndg]|"Grade I"-text-0-"grade I"-NN-0|text|893/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Grade two rank|C0441802|[clas]|"Grade II"-text-0-"grade II"-NN-0|text|200/8||
+S0004-06142005000400011-2.txt|MMI|0.46|HCCAT5 gene|C3810126|[gngm]|"HTA"-text-0-"HTA"-NNP-0|text|564/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Hematuria, CTCAE|C4554630|[fndg]|"Hematuria"-text-0-"hematuria"-NN-0|text|135/9||
+S0004-06142005000400011-2.txt|MMI|0.46|Histopathologic Grade|C0919553|[clas]|"Grade"-text-0-"grade"-NN-0|text|1093/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Hydronephrotic|C4697725|[fndg]|"Hydronephrotic"-text-0-"Hydronephrotic"-JJ-0|text|1440/14||
+S0004-06142005000400011-2.txt|MMI|0.46|IPSS Risk Category Low|C4522223|[inpr]|"Low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|IPSS-R Risk Category Low|C5203106|[fndg]|"Low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|In Urine|C0042037|[ftcn]|"urine"-text-6-"urine"-JJ-0|text|158/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Infiltration (procedure)|C0702249|[topp]|"Infiltration"-text-36-"infiltration"-NN-0|text|1280/12||
+S0004-06142005000400011-2.txt|MMI|0.46|Infiltration Route of Drug Administration|C1523986|[ftcn]|"Infiltration"-text-36-"infiltration"-NN-0|text|1280/12||
+S0004-06142005000400011-2.txt|MMI|0.46|Inflammatory|C0333348|[ftcn]|"Inflammatory"-text-25-"inflammatory"-NN-0|text|1909/12||
+S0004-06142005000400011-2.txt|MMI|0.46|Intracerebral|C0442111|[spco]|"Intracerebral"-text-0-"Intracerebral"-NNP-0|text|625/13||
+S0004-06142005000400011-2.txt|MMI|0.46|Intracerebral Route of Drug Administration|C1522211|[ftcn]|"Intracerebral"-text-0-"Intracerebral"-NNP-0|text|625/13||
+S0004-06142005000400011-2.txt|MMI|0.46|Intravenous pyelogram (procedure)|C0203108|[diap]|"Pyelography"-text-0-"PYELOGRAPHY"-NNP-0|text|1139/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Length|C1444754|[qnco]|"Length"-text-27-"length"-NN-0|text|1258/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Length of Trial|C1706316|[resa]|"LENGTH"-text-27-"length"-NN-0|text|1258/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Lesion|C0221198|[fndg]|"Lesion"-text-29-"lesion"-NN-0|text|1931/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Less Than|C0439092|[qnco]|"Less Than"-text-5-"less than"-JJR-0|text|1366/9||
+S0004-06142005000400011-2.txt|MMI|0.46|Level of Care - Surgery|C1547138|[idcn]|"Surgery"-text-21-"surgery"-NN-0|text|1677/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Levels (qualifier value)|C0441889|[qlco]|"Level"-text-3-"level"-NN-0|text|1194/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Limited (extensiveness)|C0439801|[ftcn]|"Limited"-text-0-"limited"-JJ-0|text|111/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Limited Lifting Ability|C4050251|[inpr]|"Limited"-text-0-"limited"-JJ-0|text|111/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Limited Walking Ability|C2674459|[fndg]|"Limited"-text-0-"limited"-JJ-0|text|111/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Limited component (foundation metadata concept)|C3542948|[inpr]|"Limited"-text-0-"limited"-JJ-0|text|111/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Low - MessageWaitingPriority|C1619811|[qlco]|"Low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Low - observation|C1611820|[qnco]|"Low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Low Level|C4321351|[fndg]|"Low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Low Mitosis-Karyorrhexis Index|C3890211|[qnco]|"Low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Lumen|C1301906|[qlco]|"Lumen"-text-37-"lumen"-NNS-0|text|1959/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Lymphocyte Count measurement|C0200635|[lbpr]|"Lymphocytes"-text-45-"lymphocytes"-NNS-0|text|1984/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Lymphocyte component of blood|C4018897|[bdsu]|"Lymphocytes"-text-45-"lymphocytes"-NNS-0|text|1984/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Male population group|C0025266|[popg]|"Man"-text-0-"man"-NN-0|text|12/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Man Chinese|C4761455|[popg]|"MAN"-text-0-"man"-NN-0|text|12/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Mandinka Language|C4724040|[lang]|"MAN"-text-0-"man"-NN-0|text|12/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Medical History|C0262926|[fndg]|"Personal History"-text-0-"personal history"-JJ-0|text|517/16||
+S0004-06142005000400011-2.txt|MMI|0.46|Microplate Well|C4283957|[spco]|"Well"-text-19-"well"-RB-0|text|1898/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Minute (diminutive)|C1282918|[qnco]|"Minute"-text-13-"minute"-NN-0|text|1383/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Minute Unit of Plane Angle|C2347166|[qnco]|"Minute"-text-13-"minute"-NN-0|text|1383/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Minute of time|C0439232|[tmco]|"minute"-text-13-"minute"-NN-0|text|1383/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Muscle (organ)|C4083049|[bpoc]|"Muscle"-text-49-"muscle"-NN-0|text|1999/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Negative|C0205160|[fndg]|"Negative"-text-4-"negative"-JJ-0|text|149/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Negative - answer|C3853545|[qlco]|"Negative"-text-4-"negative"-JJ-0|text|149/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Negative Charge|C2825491|[qlco]|"Negative"-text-4-"negative"-JJ-0|text|149/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Negative Finding|C1513916|[fndg]|"Negative"-text-4-"negative"-JJ-0|text|149/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Negative Number|C2825415|[cnce]|"Negative"-text-4-"negative"-JJ-0|text|149/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Neoplasms|C0027651|[neop]|"Tumor"-text-2-"tumor"-NN-0|text|1620/5|C04|
+S0004-06142005000400011-2.txt|MMI|0.46|Nephrostomy (procedure)|C0278314|[topp]|"Nephrostomy"-text-0-"nephrostomy"-NN-0|text|1159/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Normality Unit|C1882114|[qnco]|"Normality"-text-0-"normality"-NN-0|text|1044/9||
+S0004-06142005000400011-2.txt|MMI|0.46|Observation parameter|C0449381|[fndg]|"Parameters"-text-0-"parameters"-NNS-0|text|1026/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Old|C0580836|[tmco]|"Old"-text-0-"old"-JJ-0|text|8/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Old episode|C0677546|[tmco]|"Old"-text-0-"old"-JJ-0|text|8/3||
+S0004-06142005000400011-2.txt|MMI|0.46|Operative Surgical Procedures|C0543467|[topp]|"Surgery"-text-21-"surgery"-NN-0|text|1677/7|E04|
+S0004-06142005000400011-2.txt|MMI|0.46|Painless|C0234226|[ftcn]|"Painless"-text-20-"painless"-JJ-0|text|779/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Pathologic|C1521733|[ftcn]|"Pathological"-text-0-"pathological"-JJ-0|text|834/12||
+S0004-06142005000400011-2.txt|MMI|0.46|Pathological findings|C4699474|[fndg]|"Pathological findings"-text-14-"pathological findings"-JJ-1|text|489/21||
+S0004-06142005000400011-2.txt|MMI|0.46|Percutaneous insertion of nephrostomy tube|C0027724|[topp]|"percutaneous nephrostomy"-text-15-"percutaneous nephrostomy"-JJ-0|text|344/24||
+S0004-06142005000400011-2.txt|MMI|0.46|Physical Exam Domain|C1744699|[inpr]|"Physical Examination"-text-0-"physical examination"-JJ-0|text|678/20||
+S0004-06142005000400011-2.txt|MMI|0.46|Portion of urine|C2963137|[bdsu]|"Urine"-text-6-"urine"-JJ-0|text|158/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Post|C0687676|[tmco]|"After"-text-0-"After"-IN-0|text|2073/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Precision - year|C1561544|[idcn]|"year"-text-0-"year"-NN-0|text|3/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Present|C0150312|[fndg]|"Presence of"-text-68-"presence of"-NN-0|text|2048/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Procedure findings:Finding:Point in time:^Patient:Narrative|C2926606|[clna]|"Findings"-text-0-"findings"-NNS-0|text|1588/8||
+S0004-06142005000400011-2.txt|MMI|0.46|REST gene|C1419346|[gngm]|"REST"-text-0-"Rest"-NNP-0|text|1018/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Radical (qualifier value)|C0439807|[qlco]|"Radical"-text-31-"radical"-JJ-0|text|1707/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Radicals (chemistry)|C0302912|[chvs]|"Radical"-text-31-"radical"-JJ-0|text|1707/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Radiographic imaging nephrostomy|C2937272|[topp]|"Nephrostomy"-text-0-"nephrostomy"-NN-0|text|1159/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Rectal examination|C0199900|[diap]|"Rectal examination"-text-0-"Rectal examination"-JJ-0|text|854/18||
+S0004-06142005000400011-2.txt|MMI|0.46|Renal function|C0232804|[ortf]|"Renal function"-text-9-"renal function"-JJ-0|text|2134/14||
+S0004-06142005000400011-2.txt|MMI|0.46|Role Class - specimen|C1561495|[ftcn]|"specimen"-text-0-"specimen"-NNS-0|text|1816/8||
+S0004-06142005000400011-2.txt|MMI|0.46|SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME|C3542022|[dsyn]|"SOFT"-text-1-"soft"-JJ-0|text|724/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Satisfactory - Patient Condition Code|C1547307|[inpr]|"Satisfactory"-text-39-"satisfactory"-JJ-0|text|1741/12||
+S0004-06142005000400011-2.txt|MMI|0.46|School Grade|C3244287|[fndg]|"grade"-text-0-"grade"-NN-0|text|1093/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Sequela of disorder|C0543419|[patf]|"Sequelae"-text-0-"sequelae"-NNS-1|text|664/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Sequencing - Descending|C1547177|[ftcn]|"Descending"-text-0-"DESCENDING"-NN-0|text|1128/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Serum creatinine level|C0600061|[fndg]|"serum creatinine"-text-14-"serum creatinine"-NN-0|text|2150/16||
+S0004-06142005000400011-2.txt|MMI|0.46|Simpson Grade 1|C4284291|[inpr]|"Grade I"-text-0-"grade I"-NN-0|text|893/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Simpson Grade 2|C4284293|[inpr]|"Grade II"-text-0-"grade II"-NN-0|text|200/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Skin Erosion|C3887524|[dsyn]|"Erosion"-text-54-"erosion"-NN-0|text|2014/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Small|C0700321|[qnco]|"minute"-text-13-"minute"-NN-0|text|1383/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Social and personal history|C0424945|[fndg]|"Personal history"-text-0-"personal history"-JJ-0|text|517/16||
+S0004-06142005000400011-2.txt|MMI|0.46|Soft|C0205358|[qlco]|"Soft"-text-1-"soft"-JJ-0|text|724/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Specimen|C0370003|[sbst]|"Specimen"-text-0-"specimen"-NNS-0|text|1816/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Specimen Source Codes - Infiltrate|C1546677|[inpr]|"Infiltrate"-text-41-"infiltrate"-NN-0|text|1970/10||
+S0004-06142005000400011-2.txt|MMI|0.46|Specimen Source Codes - Lesion|C1546698|[inpr]|"Lesion"-text-29-"lesion"-NN-0|text|1931/6||
+S0004-06142005000400011-2.txt|MMI|0.46|Specimen Source Codes - Lymphocytes|C1546705|[inpr]|"Lymphocytes"-text-45-"lymphocytes"-NNS-0|text|1984/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Specimen Source Codes - Urine|C1547942|[inpr]|"Urine"-text-6-"urine"-JJ-0|text|158/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Specimen Source Codes - tumor|C1578706|[inpr]|"Tumor"-text-2-"tumor"-NN-0|text|1620/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Specimen Type - Lymphocytes|C1550651|[bdsu]|"Lymphocytes"-text-45-"lymphocytes"-NNS-0|text|1984/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Spread by direct extension|C3669041|[ftcn]|"Infiltration"-text-36-"infiltration"-NN-0|text|1280/12||
+S0004-06142005000400011-2.txt|MMI|0.46|Status post|C0231290|[tmco]|"After"-text-0-"After"-IN-0|text|2073/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Structure of lumen of body system|C0524461|[bsoj]|"Lumen"-text-37-"lumen"-NNS-0|text|1959/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Sufficient|C0205410|[qlco]|"Satisfactory"-text-39-"satisfactory"-JJ-0|text|1741/12||
+S0004-06142005000400011-2.txt|MMI|0.46|Superficial ulcer|C0333307|[acab]|"Erosion"-text-54-"erosion"-NN-0|text|2014/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Surgery specialty|C0038894|[bmod]|"Surgery"-text-21-"surgery"-NN-0|text|1677/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Surgical aspects|C0038895|[ftcn]|"surgery"-text-21-"surgery"-NN-0|text|1677/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Suspicion|C0242114|[menp]|"Suspicion"-text-0-"suspicion"-NN-0|text|1605/9||
+S0004-06142005000400011-2.txt|MMI|0.46|Swollen Lymph Node|C4282165|[fndg]|"lymphadenopathy"-text-0-"lymphadenopathy"-NN-0|text|1559/15||
+S0004-06142005000400011-2.txt|MMI|0.46|Symptomatic|C0231220|[ftcn]|"Symptomatic"-text-35-"symptomatic"-JJ-0|text|2202/11||
+S0004-06142005000400011-2.txt|MMI|0.46|Test, cytology, digestive|C0849088|[lbpr]|"Cytology"-text-0-"CYTOLOGY"-NNP-0|text|1063/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Through|C0332273|[ftcn]|"Through"-text-0-"through"-IN-0|text|1151/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Tract|C1185740|[bpoc]|"Tract"-text-12-"tract"-NN-0|text|1648/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Transaction counts and value totals - year|C1561543|[inpr]|"year"-text-0-"year"-NN-0|text|3/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Tumor Mass|C3273930|[fndg]|"Tumor"-text-2-"tumor"-NN-0|text|1620/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Tumor grade G1|C0475269|[fndg]|"Grade I"-text-0-"grade I"-NN-0|text|893/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Type II Diabetes Mellitus Pathway|C2984301|[cnce]|"Type II diabetes mellitus"-text-0-"Type II diabetes mellitus"-NNP-0|text|569/25||
+S0004-06142005000400011-2.txt|MMI|0.46|Units Of Measure - lumen|C1551056|[qnco]|"Lumen"-text-37-"lumen"-NNS-0|text|1959/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Unlikely|C0750558|[fndg]|"Doubtful"-text-0-"Doubtful"-JJ-0|text|1538/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Urine - SpecimenType|C1610733|[bdsu]|"Urine"-text-6-"urine"-JJ-0|text|158/5||
+S0004-06142005000400011-2.txt|MMI|0.46|Value Below Reference Range|C2700150|[inpr]|"Low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|WHO Central Nervous System Grade I|C1883546|[inpr]|"Grade I"-text-0-"grade I"-NN-0|text|893/7||
+S0004-06142005000400011-2.txt|MMI|0.46|WHO Central Nervous System Grade II|C1883547|[inpr]|"Grade II"-text-0-"grade II"-NN-0|text|200/8||
+S0004-06142005000400011-2.txt|MMI|0.46|Walls of a building|C0677535|[mnob]|"wall"-text-42-"wall"-NN-0|text|1300/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Well|C3146287|[mnob]|"Well"-text-19-"well"-RB-0|text|1898/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Well Differentiated|C0205615|[qlco]|"Grade I"-text-0-"grade I"-NN-0|text|893/7||
+S0004-06142005000400011-2.txt|MMI|0.46|Well Marginated Nodule|C4761387|[fndg]|"Well"-text-19-"well"-RB-0|text|1898/4||
+S0004-06142005000400011-2.txt|MMI|0.46|Within|C0332285|[spco]|"Within"-text-0-"within"-IN-0|text|1037/6||
+S0004-06142005000400011-2.txt|MMI|0.46|analysis aspect|C1524024|[ftcn]|"analysis"-text-1-"ANALYSIS"-NNP-0|text|963/8||
+S0004-06142005000400011-2.txt|MMI|0.46|anatomical layer|C0934502|[bpoc]|"layers"-text-51-"layers"-NNS-0|text|2006/6||
+S0004-06142005000400011-2.txt|MMI|0.46|catalase activity|C1151515|[moft]|"CAT"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|cytarabine/thioguanine|C0280589|[topp]|"CAT"-text-0-"CAT"-NN-0|text|1407/3||
+S0004-06142005000400011-2.txt|MMI|0.46|findings aspects|C2607943|[ftcn]|"findings"-text-0-"findings"-NNS-0|text|1588/8||
+S0004-06142005000400011-2.txt|MMI|0.46|low|C0205251|[qlco]|"low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|low confidentiality|C1550472|[inpr]|"low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|low exposure|C4048187|[qlco]|"low"-text-0-"low"-JJ-0|text|1089/3||
+S0004-06142005000400011-2.txt|MMI|0.46|month|C0439231|[tmco]|"Months"-text-0-"months"-NNS-0|text|428/6||
+S0004-06142005000400011-2.txt|MMI|0.46|percutaneous nephrostomy procedure|C0564457|[topp]|"Percutaneous nephrostomy"-text-15-"percutaneous nephrostomy"-JJ-0|text|344/24||
+S0004-06142005000400011-2.txt|MMI|0.46|sequelae aspects|C0243088|[patf]|"sequelae"-text-0-"sequelae"-NNS-1|text|664/8||
+S0004-06142005000400011-2.txt|MMI|0.46|site-specific telomere resolvase activity|C1622890|[moft]|"ResT"-text-0-"Rest"-NNP-0|text|1018/4||
+S0004-06142005000400011-2.txt|MMI|0.46|subscriber - self|C1551994|[inpr]|"self"-text-0-"self"-NN-0|text|106/4||
+S0004-06142005000400011-2.txt|MMI|0.46|urinary|C1524119|[qlco]|"urinary"-text-0-"URINARY"-NNP-0|text|1055/7||

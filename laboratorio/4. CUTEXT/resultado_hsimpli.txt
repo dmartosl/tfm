@@ -1,0 +1,146 @@
+aorta|aort|1|1.0|1|
+aneurisma de aorta|aneurism de aort|1|2.584962500721156|3|
+pieza|piez|1|1.0|1|
+signos|sign|2|2.0|1|
+riñón derecho|riñon derech|3|6.0|2|
+diabetes|diabet|1|1.0|1|
+aneurisma|aneurism|2|2.0|1|
+tac abdomino-pelvico|tac abdomino-pelv|1|2.0|2|
+infiltración|infiltr|1|1.0|1|
+longitud|longitud|1|1.0|1|
+presencia de actinomices|presenci de actinomic|1|2.584962500721156|3|
+uréter derecho|uret derech|1|2.0|2|
+evolución postoperatoria|evolu postoperatori|1|2.0|2|
+anulación funcional de riñón|anul funcional de riñon|1|3.0|4|
+hallazgos patológicos|hallazg patolog|1|2.0|2|
+nefrostomia|nefrostomi|2|2.0|1|
+tacto rectal|tact rectal|1|2.0|2|
+células transicionales de bajo|celul transicional de baj|1|3.0|4|
+hipertrofia|hipertrofi|1|1.0|1|
+función|funcion|1|1.0|1|
+vías de uréter derecho|vias de uret derech|1|3.0|4|
+vías|vias|1|1.0|1|
+signos patológicos|sign patolog|1|2.0|2|
+episodios de hematuria|episodi de hematuri|1|2.584962500721156|3|
+ureteropielocaliectasia grado|ureteropielocaliectasi grad|1|2.0|2|
+grado|grad|1|1.0|1|
+tipo|tip|1|1.0|1|
+hallazgo|hallazg|3|3.0|1|
+uréter sacro-ilíaco|uret sacro-iliac|1|2.0|2|
+dictamen histopatológico|dictam histopatolog|1|2.0|2|
+atrofia|atrofi|1|1.0|1|
+signos de infiltración|sign de infiltr|1|2.584962500721156|3|
+adenopatías paravesicales|adenopat paravesical|1|2.0|2|
+estudio funcional de riñon|estudi funcional de riñon|1|3.0|4|
+capas musculares|cap muscul|1|2.0|2|
+anulación|anul|1|1.0|1|
+carcinoma|carcinom|1|1.0|1|
+urotelio|uroteli|1|1.0|1|
+parámetros|parametr|1|1.0|1|
+mg/dl|mg/dl|3|3.0|1|
+dictamen|dictam|1|1.0|1|
+fosas|fos|1|1.0|1|
+meses|mes|1|1.0|1|
+ml/minuto|ml/minut|1|1.0|1|
+glucemia|glucemi|1|1.0|1|
+creatinina sérica|creatinin seric|1|2.0|2|
+megalias|megali|1|1.0|1|
+actinomices|actinomic|1|1.0|1|
+atrofia hidronefrótica|atrofi hidronefrot|1|2.0|2|
+episodios|episodi|1|1.0|1|
+células transicionales|celul transicional|1|2.0|2|
+capas|cap|1|1.0|1|
+defecto de replección|defect de repleccion|1|2.584962500721156|3|
+est:udio ecográfico|est:udi ecograf|1|2.0|2|
+pielonefritis|pielonefritis|1|1.0|1|
+aclaramiento de creatinina inferior|aclar de creatinin inferior|1|3.0|4|
+nefrostomia percutánea|nefrostomi percut|1|2.0|2|
+hbp sintomática|hbp sintomat|1|2.0|2|
+u.i.v.|u.i.v.|2|2.0|1|
+vías de uréter|vias de uret|1|2.584962500721156|3|
+cabo|cab|1|1.0|1|
+hematuria monosintomática|hematuri monosintomat|1|2.0|2|
+episodios de hematuria monosintomática|episodi de hematuri monosintomat|1|3.0|4|
+nefroureterectomía radical|nefroureterectom radical|1|2.0|2|
+resto de parámetros|rest de parametr|1|2.584962500721156|3|
+miocardiopatía|miocardiopat|1|1.0|1|
+paciente|pacient|2|2.0|1|
+tac|tac|1|1.0|1|
+aneurisma carotídeo|aneurism carot|1|2.0|2|
+imágenes endoluminales|imag endoluminal|1|2.0|2|
+exploración|explor|2|2.0|1|
+presencia|presenci|1|1.0|1|
+lesión inflamatoria|lesion inflamatori|1|2.0|2|
+i-ii|i-ii|1|1.0|1|
+aneurisma de aorta infrarrenal|aneurism de aort infrarrenal|1|3.0|4|
+luz|luz|1|1.0|1|
+genitales|genital|1|1.0|1|
+normalidad|normal|1|1.0|1|
+función renal|funcion renal|1|2.0|2|
+adenopatías|adenopat|1|1.0|1|
+abdomen blando|abdom bland|1|2.0|2|
+est:udio|est:udi|1|1.0|1|
+imágenes|imag|1|1.0|1|
+erosión de urotelio|erosion de uroteli|1|2.584962500721156|3|
+diabetes mellitus|diabet mellitus|1|2.0|2|
+tumor de vías|tumor de vias|1|2.584962500721156|3|
+abdomen|abdom|1|1.0|1|
+linfocitos|linfocit|1|1.0|1|
+creatinina inferior|creatinin inferior|1|2.0|2|
+aclaramiento|aclar|1|1.0|1|
+antecedentes personales|antecedent personal|1|2.0|2|
+erosión|erosion|1|1.0|1|
+defecto|defect|1|1.0|1|
+hipertrofia benigna|hipertrofi benign|1|2.0|2|
+pielonefritis crónica|pielonefritis cronic|1|2.0|2|
+consultas|consult|1|1.0|1|
+atrofia hidronefrótica de riñón|atrofi hidronefrot de riñon|1|3.0|4|
+uréter|uret|2|2.0|1|
+creatinina|creatinin|3|3.0|1|
+citologia urinaria|citologi urinari|1|2.0|2|
+resto|rest|1|1.0|1|
+secuelas|secuel|1|1.0|1|
+cambios de arteriosclerosis|cambi de arteriosclerosis|1|2.584962500721156|3|
+hipertrofia benigna de próstata|hipertrofi benign de prostat|1|3.0|4|
+exploración física|explor fisic|1|2.0|2|
+alergias|alergi|1|1.0|1|
+antecedentes|antecedent|1|1.0|1|
+tumor|tumor|1|1.0|1|
+analisis|analisis|1|1.0|1|
+carcinoma de células transicionales|carcinom de celul transicional|1|3.0|4|
+miocardiopatía hipertrófica|miocardiopat hipertrof|1|2.0|2|
+años de seguimiento|años de seguimient|1|2.584962500721156|3|
+lesión|lesion|1|1.0|1|
+nefroureterectomía|nefroureterectom|1|1.0|1|
+evolución|evolu|1|1.0|1|
+replección|repleccion|1|1.0|1|
+hematuria|hematuri|1|1.0|1|
+motivo|motiv|1|1.0|1|
+cambios|cambi|1|1.0|1|
+estudio funcional|estudi funcional|1|2.0|2|
+tacto|tact|1|1.0|1|
+exploraciones complementarias|explor complementari|1|2.0|2|
+próstata|prostat|1|1.0|1|
+anulación funcional|anul funcional|1|2.0|2|
+riñón|riñon|3|3.0|1|
+citologia|citologi|1|1.0|1|
+carcinoma de células|carcinom de celul|1|2.584962500721156|3|
+pielografia descendente|pielografi descendent|1|2.0|2|
+arteriosclerosis|arteriosclerosis|1|1.0|1|
+ureteropielocaliectasia|ureteropielocaliectasi|1|1.0|1|
+consultas externas|consult extern|1|2.0|2|
+células|celul|1|1.0|1|
+genitales externos|genital extern|1|2.0|2|
+aclaramiento de creatinina|aclar de creatinin|1|2.584962500721156|3|
+pielografia|pielografi|1|1.0|1|
+aorta infrarrenal|aort infrarrenal|1|2.0|2|
+años|años|2|2.0|1|
+hallazgo urográfico|hallazg urograf|1|2.0|2|
+fosas renales|fos renal|1|2.0|2|
+pared|par|1|1.0|1|
+hbp|hbp|2|2.0|1|
+estudio|estudi|2|2.0|1|
+varón|varon|1|1.0|1|
+seguimiento|seguimient|1|1.0|1|
+estudio ecográfico|estudi ecograf|1|2.0|2|
+bajo|baj|1|1.0|1|

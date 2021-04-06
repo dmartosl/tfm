@@ -1,0 +1,1056 @@
+{
+  "items" : [ {
+    "term" : "colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "84698008",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol",
+        "lang" : "es"
+      },
+      "id" : "84698008"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol LDI",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "259569005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de las lipoproteínas de densidad intermedia (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol de las lipoproteínas de densidad intermedia",
+        "lang" : "es"
+      },
+      "id" : "259569005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol HDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "102737005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "102737005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol IDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "102738000",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol IDL (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol IDL",
+        "lang" : "es"
+      },
+      "id" : "102738000"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol LDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "102739008",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de lipoproteína de baja densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol LDL",
+        "lang" : "es"
+      },
+      "id" : "102739008"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterolosis",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "48319001",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterolosis (anomalía morfológica)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterolosis",
+        "lang" : "es"
+      },
+      "id" : "48319001"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol IDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "259569005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de las lipoproteínas de densidad intermedia (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol de las lipoproteínas de densidad intermedia",
+        "lang" : "es"
+      },
+      "id" : "259569005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol VLDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "102740005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de lipoproteína de muy baja densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol VLDL",
+        "lang" : "es"
+      },
+      "id" : "102740005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol libre",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "102741009",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol no esterificado (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol no esterificado",
+        "lang" : "es"
+      },
+      "id" : "102741009"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol total",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "301860006",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol total (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol total",
+        "lang" : "es"
+      },
+      "id" : "301860006"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 3",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707125002",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 3 de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 3 de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707125002"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "IDL colesterol 2",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707092007",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 2 de lipoproteína de densidad intermedia (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 2 de lipoproteína de densidad intermedia",
+        "lang" : "es"
+      },
+      "id" : "707092007"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "IDL colesterol 1",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707091000",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 1 de lipoproteína de densidad intermedia (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 1 de lipoproteína de densidad intermedia",
+        "lang" : "es"
+      },
+      "id" : "707091000"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 2",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707084003",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 2 de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 2 de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707084003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol de HDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "102737005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "102737005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol no HDL",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "312260007",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol no HDL (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol no HDL",
+        "lang" : "es"
+      },
+      "id" : "312260007"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 3a",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707126001",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 3a de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 3a de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707126001"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 3b",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707128000",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 3b de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 3b de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707128000"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 2b",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707124003",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 2b de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 2b de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707124003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 3c",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707127005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracción 3c de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracción 3c de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707127005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol oxidasa",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "43625007",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol oxidasa (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol oxidasa",
+        "lang" : "es"
+      },
+      "id" : "43625007"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "cálculo: colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "168077005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "cálculo: colesterol (hallazgo)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "cálculo: colesterol",
+        "lang" : "es"
+      },
+      "id" : "168077005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "libre de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "259556006",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "libre de colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "libre de colesterol",
+        "lang" : "es"
+      },
+      "id" : "259556006"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol esterasa",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "50622004",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol esterasa (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol esterasa",
+        "lang" : "es"
+      },
+      "id" : "50622004"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "tofo por colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "239852007",
+      "active" : true,
+      "definitionStatus" : "FULLY_DEFINED",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "tofo por colesterol (trastorno)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "tofo por colesterol",
+        "lang" : "es"
+      },
+      "id" : "239852007"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "éster de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "73427004",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "éster de colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "éster de colesterol",
+        "lang" : "es"
+      },
+      "id" : "73427004"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 1+ 2",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707109007",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracciones 1 + 2 de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracciones 1 + 2 de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707109007"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "pólipo de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "46983009",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "pólipo de colesterol (anomalía morfológica)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "pólipo de colesterol",
+        "lang" : "es"
+      },
+      "id" : "46983009"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "émbolo de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "10690002",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "émbolo ateromatoso (anomalía morfológica)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "émbolo ateromatoso",
+        "lang" : "es"
+      },
+      "id" : "10690002"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol desmolasa",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "16660000",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol monooxigenasa (segmentación de cadena lateral) (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol monooxigenasa (segmentación de cadena lateral)",
+        "lang" : "es"
+      },
+      "id" : "16660000"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 2 + 3",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707110002",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracciones 2 + 3 de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracciones 2 + 3 de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707110002"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "HDL colesterol 4 + 5",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707111003",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracciones 4 + 5 de lipoproteína de alta densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracciones 4 + 5 de lipoproteína de alta densidad",
+        "lang" : "es"
+      },
+      "id" : "707111003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "cristal de colesterol",
+    "active" : false,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "7477002",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "lípido, cristalino (estructura celular)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "lípido, cristalino",
+        "lang" : "es"
+      },
+      "id" : "7477002"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "análito de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "301875003",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "análito de colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "análito de colesterol",
+        "lang" : "es"
+      },
+      "id" : "301875003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "ésteres de colesterol",
+    "active" : false,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "73427004",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "éster de colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "éster de colesterol",
+        "lang" : "es"
+      },
+      "id" : "73427004"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "sulfato de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "116772004",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "sulfato de colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "sulfato de colesterol",
+        "lang" : "es"
+      },
+      "id" : "116772004"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "cálculo de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "81063005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "cálculo de colesterol (anomalía morfológica)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "cálculo de colesterol",
+        "lang" : "es"
+      },
+      "id" : "81063005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "cribado de colesterol",
+    "active" : false,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "275972003",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "cribado mediante la detección de colesterol (procedimiento)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "cribado mediante la detección de colesterol",
+        "lang" : "es"
+      },
+      "id" : "275972003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "VLDL colesterol 1 + 2",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707113000",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracciones 1 + 2 de lipoproteína de muy baja densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracciones 1 + 2 de lipoproteína de muy baja densidad",
+        "lang" : "es"
+      },
+      "id" : "707113000"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "VLDL colesterol 3 + 4",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707115007",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracciones 3 + 4 de lipoproteína de muy baja densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracciones 3 + 4 de lipoproteína de muy baja densidad",
+        "lang" : "es"
+      },
+      "id" : "707115007"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "VLDL colesterol 5 + 6",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707116008",
+      "active" : false,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en subfracciones 5 + 6 de lipoproteína de muy baja densidad (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en subfracciones 5 + 6 de lipoproteína de muy baja densidad",
+        "lang" : "es"
+      },
+      "id" : "707116008"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "VLDL colesterol, beta",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "707101005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol en lipoproteína de muy baja densidad, beta (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol en lipoproteína de muy baja densidad, beta",
+        "lang" : "es"
+      },
+      "id" : "707101005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "cristal de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "250452002",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "cristal de colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "cristal de colesterol",
+        "lang" : "es"
+      },
+      "id" : "250452002"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "pesquisa de colesterol",
+    "active" : false,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "275972003",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "cribado mediante la detección de colesterol (procedimiento)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "cribado mediante la detección de colesterol",
+        "lang" : "es"
+      },
+      "id" : "275972003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "depósito de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "64986007",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "depósito de colesterol (anomalía morfológica)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "depósito de colesterol",
+        "lang" : "es"
+      },
+      "id" : "64986007"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "medición de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "77068002",
+      "active" : true,
+      "definitionStatus" : "FULLY_DEFINED",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "medición de colesterol (procedimiento)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "medición de colesterol",
+        "lang" : "es"
+      },
+      "id" : "77068002"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "colesterol (sustancia)",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "84698008",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "colesterol",
+        "lang" : "es"
+      },
+      "id" : "84698008"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "tamizaje de colesterol",
+    "active" : false,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "275972003",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "cribado mediante la detección de colesterol (procedimiento)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "cribado mediante la detección de colesterol",
+        "lang" : "es"
+      },
+      "id" : "275972003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "screening de colesterol",
+    "active" : false,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "275972003",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "cribado mediante la detección de colesterol (procedimiento)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "cribado mediante la detección de colesterol",
+        "lang" : "es"
+      },
+      "id" : "275972003"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  }, {
+    "term" : "octanoato de colesterol",
+    "active" : true,
+    "languageCode" : "es",
+    "module" : "450829007",
+    "concept" : {
+      "conceptId" : "261245005",
+      "active" : true,
+      "definitionStatus" : "PRIMITIVE",
+      "moduleId" : "900000000000207008",
+      "fsn" : {
+        "term" : "octanoato de colesterol (sustancia)",
+        "lang" : "es"
+      },
+      "pt" : {
+        "term" : "octanoato de colesterol",
+        "lang" : "es"
+      },
+      "id" : "261245005"
+    },
+    "branchPath" : "MAIN/SNOMEDCT-ES"
+  } ],
+  "total" : 534,
+  "limit" : 50,
+  "offset" : 0
+}

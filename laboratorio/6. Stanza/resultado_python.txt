@@ -1,0 +1,47 @@
+benign prostate hypertrophy	PROBLEM
+self-limited monosymptomatic hematuria	PROBLEM
+urine cultures	TEST
+An ultrasound study	TEST
+grade II ureteropyelocaliectasis of the right kidney	PROBLEM
+IVU	TEST
+a right percutaneous nephrostomy	TREATMENT
+studying ultrasound	TEST
+pathological findings	PROBLEM
+known allergies	PROBLEM
+Type II diabetes mellitus	PROBLEM
+Hypertrophic cardiomyopathy	PROBLEM
+Intracerebral carotid aneurysm	PROBLEM
+sequelae	PROBLEM
+The physical examination	TEST
+soft and depressible abdomen	PROBLEM
+painful	PROBLEM
+megaly	PROBLEM
+painless free renal fossae	PROBLEM
+pathological signs	PROBLEM
+Rectal examination	TEST
+BPH	PROBLEM
+Glucose	TEST
+Creatinine	TEST
+URINARY CYTOLOGY	TEST
+low-grade transitional cell carcinoma	PROBLEM
+DESCENDING PYELOGRAPHY	TEST
+Nephrostomy	TREATMENT
+filling defect	PROBLEM
+infiltration of the wall	PROBLEM
+Creatinine clearance	TEST
+Infrarenal Aortic aneurysm	PROBLEM
+Hydronephrotic atrophy of the right kidney	PROBLEM
+visualizing intraureteral endoluminal images	TEST
+Doubtful paravesical lymphadenopathy	PROBLEM
+a tumor of the right ureteric tract	PROBLEM
+surgery	TREATMENT
+a right radical nephroureterectomy	TREATMENT
+the specimen	TEST
+chronic pyelonephritis	PROBLEM
+changes in arteriosclerosis	PROBLEM
+an inflammatory ureteral lesion	PROBLEM
+infiltrate of lymphocytes in muscular layers	PROBLEM
+erosion of the urothelium	PROBLEM
+Actinomyces	PROBLEM
+serum creatinine	TEST
+symptomatic BPH	PROBLEM

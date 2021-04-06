@@ -1,0 +1,34 @@
+https://metamap.nlm.nih.gov
+
+MetaMap
+-------
+Instalacion:
+  $ tar xvfj Desktop/metamap/public_mm_linux_main_2020.tar.bz2
+  $ ./bin/install.sh
+
+Ejecucion:
+  $ bin/skrmedpostctl start
+  $ bin/wsdserverctl start
+  $ cat ../Documents/S0004-06142005000400011-2.txt | bin/metamap20 -I --JSONf 4 > ../Desktop/resultado.txt
+  
+Parada:
+  $ bin/wsdserverctl stop
+  $ bin/skrmedpostctl stop
+
+
+MetaMapLite
+-----------
+Instalacion:
+  $ unzip Desktop/metamaplite/public_mm_lite_3.6.2rc6_binaryonly.zip
+  $ unzip Desktop/metamaplite/public_mm_data_lite_usabase_2020aa.zip
+
+Nota: Si se instala otra version de DB hay que modificarlo la ruta en 'config/metamaplite.properties'
+
+Ejecucion:
+  $ ./metamaplite.sh --overwrite ../Documents/S0004-06142005000400011-2.txt
+  
+
+PyMetaMap
+---------
+https://github.com/AnthonyMRios/pymetamap
+
