@@ -1,2 +1,0 @@
-https://github.com/stanfordnlp/stanza
-https://stanfordnlp.github.io/stanza/biomed_model_usage.html

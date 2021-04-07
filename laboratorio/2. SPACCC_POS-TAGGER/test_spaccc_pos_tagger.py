@@ -1,4 +1,4 @@
-from spaccc_pos_tagger.Med_Tagger.Med_Tagger import Med_Tagger
+from Med_Tagger import Med_Tagger
 import requests
 import json
 

@@ -28,3 +28,4 @@ ENV FREELINGSHARE $FREELINGDIR/share/freeling
 # echo 'Esto es una prueba.' | python3 $FREELINGSHARE/APIs/python3/sample.py
 # wget https://raw.githubusercontent.com/dmartosl/tfm/master/data/SPACCC/corpus/S0004-06142005000400011-1.txt --no-check-certificate
 # python3 $FREELINGSHARE/APIs/python3/sample.py < S0004-06142005000400011-1.txt
+# analyze -f es.cfg < S0004-06142005000400011-1.txt 

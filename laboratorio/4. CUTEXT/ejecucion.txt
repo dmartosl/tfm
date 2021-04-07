@@ -1,5 +1,0 @@
-https://github.com/PlanTL-SANIDAD/CUTEXT
-
-Ejecucion Java:
-  CUTEXT/cutext/main$ java -jar cutext.jar -TM -generateTextFile true -json true -inputFile /home/uned/Documents/S0004-06142005000400011-1.txt -displayon TRUE
-  

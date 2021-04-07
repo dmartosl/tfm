@@ -306,11 +306,3 @@ class Med_Tagger(object):
         """
 
         self._tagger.kill()
-
-
-if __name__ == "__main__":
-    with open('S0004-06142005000400011-1.txt') as f:
-        texto = f.read()
-    tag = Med_Tagger()
-    print(tag.parse(texto))
-    del tag
