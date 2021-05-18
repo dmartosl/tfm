@@ -6,49 +6,49 @@ B. Asociados a medicamentos o tratamientos
 C. Asociados a resultados de laboratorio o microbiología  
 D. Asociado a pruebas diagnósticas  
 
-Número | Trigger | Ejemplo de posible evento adverso asociado
---- | --- | ---
-A.1 | Úlceras por presión (9) | Úlcera por presión
-A.2 | Caídas (9, 26) | Sobresedación
-A.3 | Rash (26) | Reacción alérgica a medicamento
-A.4 | IAM en paciente hospitalizado | Procedimientos invasivos
-A.5 | AVC en paciente hospitalizado (9) | Cardioversión de FA sin anticoagular
-A.6 | ETEV en paciente hospitalizado | Falta de profilaxis en paciente inmovilizado
-A.7 | Hemorragia | Procedimientos invasivos
-A.8 | Agitación | Uso de anticolinérgicos
-A.9 | Sobresedación (9, 25, 26) | Uso de benzodiacepinas
-A.10 | Hipotensión (9, 25-27) | Sobremedicación hipotensora
-A.11 | Neumonía de nuevo comienzo (9, 25) | Neumonía nosocomial
-A.12 | Flebitis | Infección de vía venosa
-A.13 | Neumotórax | Procedimientos invasivos
-A.14 | Sondaje | Retención urinaria por fármacos
-A.15 | Extravío o repetición de petición | Retraso en el diagnóstico
-A.16 | Fiebre | Infección nosocomial
-A.17 | Reingreso en 30 días (9) | Infección nosocomial
-A.18 | Trasferencia a nivel de cuidados más alto (9, 26) | Complicación de procedimiento invasivo
-A.19 | Muerte (17, 27) | Complicación de procedimiento invasivo
-B.1 | Antieméticos (9, 25, 26) | Anestesia
-B.2 | Antidiarreico (25, 26) | Diarrea asociada a antibióticos
-B.3 | Antihistamínico (9, 25, 26) | Reacción alérgica a medicamento
-B.4 | Antipsicótico | Delirium en paciente hospitalizado
-B.5 | Laxante o enema (25) | Estreñimiento por inmovilidad
-B.6 | Prednisona u otro corticoide (17) | Reacción alérgica a medicamento
-B.7 | Glucagón o suero glucosado al 10% (17) | Hipoglucemia insulínica
-B.8 | Vitamina K (9, 17, 25, 26) | Hemorragia por anticoagulantes
-B.9 | Transfusión (9) | Hemorragia por procedimiento invasivo
-B.10 | Flumazenilo o naloxona (9, 17, 25-27) | Sobreefecto de sedantes o narcóticos
-B.11 | Cese brusco de medicación (9, 17, 25, 26) | Alteración hidroelectrolítica por fármacos
-C.1 | Cultivo positivo a C. difficile (9, 17, 25, 26) | Diarrea asociada a antibióticos
-C.2 | Glucosa<50 mg/dl (9, 25, 26, 28) | Hipoglucemia insulínica
-C.3 | INR>6 (9, 17, 25, 26, 28) | Hemorragia por anticoagulantes
-C.4 | Caída de hemoglobina o hematocrito >25% (9, 25) | Hemorragia por procedimiento invasivo
-C.5 | Elevación de los niveles de creatinina basal ×2 (9, 25-28) | Insuficiencia renal por fármacos
-C.6 | Na<120 o >150 mEq/l (27, 28) | Alteración hidroelectrolítica por fármacos
-C.7 | K<2 o >5 mEq/l (17, 27, 28) | Alteración hidroelectrolítica por fármacos
-C.8 | Hemocultivo positivo (9, 25) | Infección nosocomial
-C.9 | Urocultivo positivo | Infección nosocomial
-D.1 | Gastroscopia | Hemorragia por anticoagulantes
-D.2 | Pruebas de detección de coágulo (TAC/eco Döppler) (9, 25) | Tromboembolismo por inmovilización  
+Número | Trigger | UID | Ejemplo de posible evento adverso asociado
+--- | --- | --- | ---
+A.1 | Úlceras por presión (9) | [420226006](https://browser.ihtsdotools.org/?perspective=full&conceptId1=420226006&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Úlcera por presión
+A.2 | Caídas (9, 26) | [1912002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=1912002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [217082002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=217082002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Sobresedación
+A.3 | Rash (26) | [271807003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=271807003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Reacción alérgica a medicamento
+A.4 | IAM en paciente hospitalizado | [57054005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=57054005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
+A.5 | AVC en paciente hospitalizado (9) | [26879000](https://browser.ihtsdotools.org/?perspective=full&conceptId1=26879000&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Cardioversión de FA sin anticoagular
+A.6 | ETEV en paciente hospitalizado | [429098002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=429098002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Falta de profilaxis en paciente inmovilizado
+A.7 | Hemorragia | [50960005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=50960005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
+A.8 | Agitación | [24199005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=24199005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Uso de anticolinérgicos
+A.9 | Sobresedación (9, 25, 26) | [72641008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=72641008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Uso de benzodiacepinas
+A.10 | Hipotensión (9, 25-27) | [45007003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=45007003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Sobremedicación hipotensora
+A.11 | Neumonía de nuevo comienzo (9, 25) | [425464007](https://browser.ihtsdotools.org/?perspective=full&conceptId1=425464007&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Neumonía nosocomial
+A.12 | Flebitis | [61599003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=61599003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección de vía venosa
+A.13 | Neumotórax | [36118008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=36118008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
+A.14 | Sondaje | [446308005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=446308005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Retención urinaria por fármacos
+A.15 | Extravío o repetición de petición | [118635009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=118635009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Retraso en el diagnóstico
+A.16 | Fiebre | [386661006](https://browser.ihtsdotools.org/?perspective=full&conceptId1=386661006&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección nosocomial
+A.17 | Reingreso en 30 días (9) | [417005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=417005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección nosocomial
+A.18 | Trasferencia a nivel de cuidados más alto (9, 26) | [305351004](https://browser.ihtsdotools.org/?perspective=full&conceptId1=305351004&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Complicación de procedimiento invasivo
+A.19 | Muerte (17, 27) | [419620001](https://browser.ihtsdotools.org/?perspective=full&conceptId1=419620001&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Complicación de procedimiento invasivo
+B.1 | Antieméticos (9, 25, 26) | [52017007](https://browser.ihtsdotools.org/?perspective=full&conceptId1=52017007&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Anestesia
+B.2 | Antidiarreico (25, 26) | [77398001](https://browser.ihtsdotools.org/?perspective=full&conceptId1=77398001&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [398836001](https://browser.ihtsdotools.org/?perspective=full&conceptId1=398836001&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [55946005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=55946005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [387040009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=387040009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Diarrea asociada a antibióticos
+B.3 | Antihistamínico (9, 25, 26) | [373268008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=373268008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Reacción alérgica a medicamento
+B.4 | Antipsicótico | [10784006](https://browser.ihtsdotools.org/?perspective=full&conceptId1=10784006&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [372482001](https://browser.ihtsdotools.org/?perspective=full&conceptId1=372482001&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Delirium en paciente hospitalizado
+B.5 | Laxante o enema (25) | [61621000](https://browser.ihtsdotools.org/?perspective=full&conceptId1=61621000&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [372800002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=372800002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Estreñimiento por inmovilidad
+B.6 | Prednisona u otro corticoide (17) | [10312003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=10312003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [116602009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=116602009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Reacción alérgica a medicamento
+B.7 | Glucagón o suero glucosado al 10% (17) | [10712001](https://browser.ihtsdotools.org/?perspective=full&conceptId1=10712001&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [66603002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=66603002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Hipoglucemia insulínica
+B.8 | Vitamina K (9, 17, 25, 26) | [74226000](https://browser.ihtsdotools.org/?perspective=full&conceptId1=74226000&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [65183007](https://browser.ihtsdotools.org/?perspective=full&conceptId1=65183007&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Hemorragia por anticoagulantes
+B.9 | Transfusión (9) | [33389009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=33389009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [5447007](https://browser.ihtsdotools.org/?perspective=full&conceptId1=5447007&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Hemorragia por procedimiento invasivo
+B.10 | Flumazenilo o naloxona (9, 17, 25-27) | [89018006](https://browser.ihtsdotools.org/?perspective=full&conceptId1=89018006&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [372890007](https://browser.ihtsdotools.org/?perspective=full&conceptId1=372890007&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Sobreefecto de sedantes o narcóticos
+B.11 | Cese brusco de medicación (9, 17, 25, 26) | [406149000](https://browser.ihtsdotools.org/?perspective=full&conceptId1=406149000&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Alteración hidroelectrolítica por fármacos
+C.1 | Cultivo positivo a C. difficile (9, 17, 25, 26) | [122209009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=122209009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Diarrea asociada a antibióticos
+C.2 | Glucosa < 50 mg/dl (9, 25, 26, 28) | [22569008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=22569008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Hipoglucemia insulínica
+C.3 | INR > 6 (9, 17, 25, 26, 28) | [250360002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=250360002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Hemorragia por anticoagulantes
+C.4 | Caída de hemoglobina o hematocrito > 25% (9, 25) | [165397008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=165397008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [165414004](https://browser.ihtsdotools.org/?perspective=full&conceptId1=165414004&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Hemorragia por procedimiento invasivo
+C.5 | Elevación de los niveles de creatinina basal ×2 (9, 25-28) | [113075003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=113075003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Insuficiencia renal por fármacos
+C.6 | Na < 120 o > 150 mEq/l (27, 28) | [312469006](https://browser.ihtsdotools.org/?perspective=full&conceptId1=312469006&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Alteración hidroelectrolítica por fármacos
+C.7 | K < 2 o > 5 mEq/l (17, 27, 28) | [312468003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=312468003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Alteración hidroelectrolítica por fármacos
+C.8 | Hemocultivo positivo (9, 25) | [30088009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=30088009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección nosocomial
+C.9 | Urocultivo positivo | [117010004](https://browser.ihtsdotools.org/?perspective=full&conceptId1=117010004&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección nosocomial
+D.1 | Gastroscopia | [173822004](https://browser.ihtsdotools.org/?perspective=full&conceptId1=173822004&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Hemorragia por anticoagulantes
+D.2 | Pruebas de detección de coágulo (TAC/eco Döppler) (9, 25) | [77477000](https://browser.ihtsdotools.org/?perspective=full&conceptId1=77477000&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) - [8306009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=8306009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Tromboembolismo por inmovilización  
   
 AVC: accidente cerebrovascular; ETEV: enfermedad tromboembólica venosa; IAM: infarto agudo de miocardio; INR: international normalized ratio.  
 Entre paréntesis: referencias de la procedencia del trigger
