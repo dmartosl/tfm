@@ -14,7 +14,7 @@ A.3 | Rash (26) | [271807003](https://browser.ihtsdotools.org/?perspective=full&
 A.4 | IAM en paciente hospitalizado | [57054005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=57054005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
 A.5 | AVC en paciente hospitalizado (9) | [266257000](https://browser.ihtsdotools.org/?perspective=full&conceptId1=266257000&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Cardioversión de FA sin anticoagular
 A.6 | ETEV en paciente hospitalizado | [429098002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=429098002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Falta de profilaxis en paciente inmovilizado
-A.7 | Hemorragia | [50960005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=50960005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
+A.7 | Hemorragia | [131148009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=131148009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
 A.8 | Agitación | [24199005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=24199005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Uso de anticolinérgicos
 A.9 | Sobresedación (9, 25, 26) | [72641008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=72641008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Uso de benzodiacepinas
 A.10 | Hipotensión (9, 25-27) | [45007003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=45007003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Sobremedicación hipotensora
