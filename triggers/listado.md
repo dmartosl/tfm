@@ -21,7 +21,7 @@ A.10 | Hipotensión (9, 25-27) | [45007003](https://browser.ihtsdotools.org/?per
 A.11 | Neumonía de nuevo comienzo (9, 25) | [425464007](https://browser.ihtsdotools.org/?perspective=full&conceptId1=425464007&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Neumonía nosocomial
 A.12 | Flebitis | [61599003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=61599003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección de vía venosa
 A.13 | Neumotórax | [36118008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=36118008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
-A.14 | Sondaje | [446308005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=446308005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Retención urinaria por fármacos
+A.14 | Sondaje | [387651008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=387651008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Retención urinaria por fármacos
 A.15 | Extravío o repetición de petición | [118635009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=118635009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Retraso en el diagnóstico
 A.16 | Fiebre | [386661006](https://browser.ihtsdotools.org/?perspective=full&conceptId1=386661006&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección nosocomial
 A.17 | Reingreso en 30 días (9) | [417005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=417005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección nosocomial
