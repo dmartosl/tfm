@@ -16,7 +16,7 @@ A.5 | AVC en paciente hospitalizado (9) | [266257000](https://browser.ihtsdotool
 A.6 | ETEV en paciente hospitalizado | [429098002](https://browser.ihtsdotools.org/?perspective=full&conceptId1=429098002&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Falta de profilaxis en paciente inmovilizado
 A.7 | Hemorragia | [131148009](https://browser.ihtsdotools.org/?perspective=full&conceptId1=131148009&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Procedimientos invasivos
 A.8 | Agitación | [24199005](https://browser.ihtsdotools.org/?perspective=full&conceptId1=24199005&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Uso de anticolinérgicos
-A.9 | Sobresedación (9, 25, 26) | [72641008](https://browser.ihtsdotools.org/?perspective=full&conceptId1=72641008&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Uso de benzodiacepinas
+A.9 | Sobresedación (9, 25, 26) | [410011004](https://browser.ihtsdotools.org/?perspective=full&conceptId1=410011004&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Uso de benzodiacepinas
 A.10 | Hipotensión (9, 25-27) | [45007003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=45007003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Sobremedicación hipotensora
 A.11 | Neumonía de nuevo comienzo (9, 25) | [425464007](https://browser.ihtsdotools.org/?perspective=full&conceptId1=425464007&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Neumonía nosocomial
 A.12 | Flebitis | [61599003](https://browser.ihtsdotools.org/?perspective=full&conceptId1=61599003&edition=MAIN/SNOMEDCT-ES/2021-04-30&release=&languages=es,en) | Infección de vía venosa
